@@ -1,1 +1,0 @@
-{"_invocation_id": "392c6b22-722b-47b6-85dd-4bd34654c905", "linked": {"0": {"name": "model.fraud_pipeline.stg_transactions", "type": "model", "succ": [2]}, "1": {"name": "model.fraud_pipeline.fct_fraud_signals", "type": "model"}, "2": {"name": "model.fraud_pipeline.fct_transactions", "type": "model", "succ": [1]}}}
