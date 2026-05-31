@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/fraud.duckdb
+data/transactions.csv
+logs/
+dbt/fraud_pipeline/logs/
+dbt/fraud_pipeline/target/
+.DS_Store

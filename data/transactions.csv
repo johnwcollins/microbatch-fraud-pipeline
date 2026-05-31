@@ -1,0 +1,1060 @@
+transaction_id,event_ts,card_id,cardholder_id,merchant_id,merchant_category,amount,currency,channel,txn_type,city,state,country,latitude,longitude,device_id,ip_address,is_fraud_ground_truth,fraud_type
+txn_0936,2026-01-02 19:42:41,card_0007,user_0007,merchant_0019,electronics,409.55,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,189.31.27.74,1,amount
+txn_0149,2026-01-05 17:50:16,card_0009,user_0009,merchant_0110,gas,34.87,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,8.92.207.163,0,none
+txn_0350,2026-01-01 21:17:23,card_0003,user_0003,merchant_0141,travel,172.91,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,248.43.32.180,0,none
+txn_0155,2026-01-01 00:32:47,card_0003,user_0003,merchant_0065,travel,97.22,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,102.160.111.55,0,none
+txn_0299,2026-01-04 02:17:06,card_0001,user_0001,merchant_0140,pharmacy,78.62,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,221.182.85.27,0,none
+txn_0417,2026-01-03 15:23:16,card_0001,user_0001,merchant_0192,retail,69.21,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,83.51.73.68,0,none
+txn_0280,2026-01-02 14:27:20,card_0007,user_0007,merchant_0022,electronics,47.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,30.117.35.117,0,none
+txn_1008,2026-01-02 16:11:49,card_0005,user_0005,merchant_0186,gas,74.49,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,160.152.63.5,1,velocity
+txn_0606,2026-01-04 10:19:39,card_0004,user_0004,merchant_0071,retail,124.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,245.175.91.243,0,none
+txn_0989,2026-01-01 05:31:52,card_0008,user_0008,merchant_0105,electronics,50.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,69.17.17.253,1,velocity
+txn_0854,2026-01-04 11:21:26,card_0009,user_0009,merchant_0072,electronics,93.32,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,76.139.226.243,0,none
+txn_0651,2026-01-03 12:14:07,card_0000,user_0000,merchant_0030,electronics,216.96,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,104.1.253.118,0,none
+txn_0584,2026-01-02 21:18:47,card_0002,user_0002,merchant_0048,restaurant,123.78,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,52.112.221.244,0,none
+txn_0443,2026-01-02 07:33:33,card_0000,user_0000,merchant_0144,gas,49.38,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,115.85.112.78,0,none
+txn_0817,2026-01-06 08:30:49,card_0003,user_0003,merchant_0017,travel,166.21,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,121.36.51.223,0,none
+txn_0475,2026-01-03 23:36:13,card_0006,user_0006,merchant_0060,electronics,137.28,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,202.125.64.67,0,none
+txn_0271,2026-01-01 22:50:27,card_0005,user_0005,merchant_0191,gas,46.02,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,94.167.58.183,0,none
+txn_0568,2026-01-05 09:56:00,card_0001,user_0001,merchant_0196,travel,45.29,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,103.238.13.242,0,none
+txn_0089,2026-01-04 15:50:23,card_0001,user_0001,merchant_0052,retail,72.83,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,47.137.11.163,0,none
+txn_0995,2026-01-06 13:09:05,card_0006,user_0006,merchant_0028,electronics,127.25,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,3.144.250.122,1,velocity
+txn_0279,2026-01-01 01:15:59,card_0004,user_0004,merchant_0115,grocery,210.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,172.69.211.164,0,none
+txn_0560,2026-01-04 07:05:20,card_0005,user_0005,merchant_0160,gas,29.11,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,15.98.218.117,0,none
+txn_0603,2026-01-02 12:09:15,card_0003,user_0003,merchant_0061,pharmacy,179.72,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,79.201.164.242,0,none
+txn_0803,2026-01-02 16:03:11,card_0004,user_0004,merchant_0098,entertainment,183.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,231.231.161.203,0,none
+txn_0263,2026-01-01 06:48:59,card_0008,user_0008,merchant_0063,travel,81.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,35.95.67.29,0,none
+txn_0769,2026-01-03 22:10:38,card_0003,user_0003,merchant_0120,travel,53.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,202.52.181.91,0,none
+txn_0581,2026-01-04 12:57:25,card_0000,user_0000,merchant_0054,retail,227.89,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,148.103.63.236,0,none
+txn_0391,2026-01-05 01:03:39,card_0002,user_0002,merchant_0024,restaurant,81.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,121.154.121.88,0,none
+txn_0918,2026-01-01 20:27:06,card_0005,user_0005,merchant_0103,restaurant,92.43,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,210.143.122.140,0,none
+txn_0055,2026-01-02 20:31:44,card_0007,user_0007,merchant_0126,pharmacy,73.36,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,61.174.183.104,0,none
+txn_0535,2026-01-03 22:10:39,card_0006,user_0006,merchant_0155,retail,64.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,61.220.227.116,0,none
+txn_0267,2026-01-02 15:56:07,card_0004,user_0004,merchant_0014,retail,170.81,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,94.163.113.153,0,none
+txn_0401,2026-01-01 02:30:15,card_0004,user_0004,merchant_0097,retail,111.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,248.147.209.6,0,none
+txn_0186,2026-01-05 19:19:57,card_0003,user_0003,merchant_0087,travel,193.36,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,109.226.40.229,0,none
+txn_0954,2026-01-05 18:26:05,card_0009,user_0009,merchant_0044,electronics,148.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0009,3.184.21.130,1,geo
+txn_0153,2026-01-06 02:11:21,card_0007,user_0007,merchant_0028,electronics,67.63,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,223.14.95.69,0,none
+txn_0515,2026-01-02 03:20:35,card_0004,user_0004,merchant_0006,entertainment,110.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,186.99.107.101,0,none
+txn_0848,2026-01-06 09:33:08,card_0008,user_0008,merchant_0193,electronics,72.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,208.112.170.51,0,none
+txn_0079,2026-01-04 17:33:41,card_0006,user_0006,merchant_0127,retail,110.13,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,190.86.59.153,0,none
+txn_0674,2026-01-05 23:33:08,card_0004,user_0004,merchant_0027,pharmacy,123.94,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,237.142.112.36,0,none
+txn_0273,2026-01-01 05:36:03,card_0001,user_0001,merchant_0032,pharmacy,54.39,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,168.220.37.67,0,none
+txn_0367,2026-01-01 07:36:47,card_0002,user_0002,merchant_0025,electronics,158.92,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,166.89.189.139,0,none
+txn_0833,2026-01-04 04:48:47,card_0004,user_0004,merchant_0123,pharmacy,146.16,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,163.12.198.238,0,none
+txn_0507,2026-01-02 20:39:49,card_0000,user_0000,merchant_0067,electronics,195.78,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,166.21.236.177,0,none
+txn_0861,2026-01-02 13:07:32,card_0003,user_0003,merchant_0071,electronics,84.28,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,25.35.246.102,0,none
+txn_0744,2026-01-04 20:05:36,card_0007,user_0007,merchant_0188,travel,70.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,113.189.236.153,0,none
+txn_1006,2026-01-02 16:13:39,card_0005,user_0005,merchant_0132,gas,59.86,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,195.7.82.11,1,velocity
+txn_0665,2026-01-02 09:56:04,card_0002,user_0002,merchant_0133,electronics,97.37,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,233.104.164.19,0,none
+txn_1007,2026-01-02 16:11:10,card_0005,user_0005,merchant_0053,gas,60.29,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,97.127.147.55,1,velocity
+txn_0464,2026-01-06 14:25:44,card_0005,user_0005,merchant_0087,restaurant,91.27,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,255.109.129.100,0,none
+txn_0448,2026-01-02 06:35:08,card_0001,user_0001,merchant_0168,retail,61.22,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,127.77.186.254,0,none
+txn_0492,2026-01-01 23:42:05,card_0002,user_0002,merchant_0014,electronics,58.23,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,194.26.96.80,0,none
+txn_0678,2026-01-01 21:20:01,card_0004,user_0004,merchant_0009,grocery,130.04,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,133.155.253.62,0,none
+txn_0631,2026-01-02 06:33:38,card_0004,user_0004,merchant_0065,pharmacy,142.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,156.214.130.101,0,none
+txn_0532,2026-01-04 23:39:44,card_0002,user_0002,merchant_0043,electronics,93.99,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,80.153.239.195,0,none
+txn_0189,2026-01-02 06:17:21,card_0001,user_0001,merchant_0071,travel,78.67,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,195.58.110.139,0,none
+txn_0418,2026-01-02 05:52:34,card_0001,user_0001,merchant_0110,travel,45.85,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,249.203.181.100,0,none
+txn_0616,2026-01-03 16:07:42,card_0001,user_0001,merchant_0014,retail,75.63,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,15.23.13.173,0,none
+txn_0661,2026-01-03 19:39:52,card_0008,user_0008,merchant_0014,electronics,59.39,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,45.252.19.181,0,none
+txn_0223,2026-01-04 09:55:46,card_0006,user_0006,merchant_0160,retail,167.13,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,213.145.59.211,0,none
+txn_0085,2026-01-02 12:57:35,card_0007,user_0007,merchant_0139,electronics,85.14,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,107.158.95.132,0,none
+txn_0114,2026-01-05 15:16:08,card_0004,user_0004,merchant_0134,retail,1.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,16.132.55.146,0,none
+txn_0034,2026-01-02 05:00:23,card_0009,user_0009,merchant_0067,electronics,77.96,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,197.217.137.36,0,none
+txn_0082,2026-01-01 23:39:25,card_0002,user_0002,merchant_0055,restaurant,66.22,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,180.221.76.52,0,none
+txn_0658,2026-01-05 18:02:56,card_0001,user_0001,merchant_0032,retail,57.85,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,49.198.4.130,0,none
+txn_0255,2026-01-01 08:31:44,card_0003,user_0003,merchant_0085,travel,88.93,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,3.40.135.45,0,none
+txn_0761,2026-01-06 15:15:01,card_0001,user_0001,merchant_0049,travel,34.96,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,112.144.19.86,0,none
+txn_0489,2026-01-04 05:48:19,card_0007,user_0007,merchant_0078,pharmacy,70.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,8.154.114.234,0,none
+txn_0419,2026-01-04 00:03:56,card_0005,user_0005,merchant_0001,gas,48.74,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,70.32.53.199,0,none
+txn_1028,2026-01-06 16:05:17,card_0002,user_0002,merchant_0165,electronics,82.7,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,143.221.173.46,1,velocity
+txn_0691,2026-01-05 12:05:30,card_0002,user_0002,merchant_0136,restaurant,81.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,37.34.127.161,0,none
+txn_0277,2026-01-05 23:26:57,card_0008,user_0008,merchant_0001,travel,103.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,146.210.169.193,0,none
+txn_0742,2026-01-03 03:36:16,card_0006,user_0006,merchant_0112,retail,87.36,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,220.77.140.104,0,none
+txn_0215,2026-01-02 03:58:05,card_0004,user_0004,merchant_0038,retail,96.88,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,139.109.19.183,0,none
+txn_0324,2026-01-03 20:47:19,card_0009,user_0009,merchant_0100,electronics,136.9,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,82.77.253.17,0,none
+txn_0916,2026-01-01 23:20:49,card_0008,user_0008,merchant_0099,gas,46.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,67.255.139.140,0,none
+txn_0345,2026-01-02 21:59:53,card_0000,user_0000,merchant_0198,electronics,148.6,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,194.76.44.171,0,none
+txn_0129,2026-01-06 20:01:20,card_0001,user_0001,merchant_0153,travel,65.12,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,159.30.235.108,0,none
+txn_0288,2026-01-04 14:05:05,card_0005,user_0005,merchant_0063,entertainment,101.0,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,82.84.211.191,0,none
+txn_1047,2026-01-02 19:09:35,card_0007,user_0007,merchant_0126,electronics,47.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,160.66.176.218,1,velocity
+txn_1019,2026-01-05 04:27:07,card_0007,user_0007,merchant_0034,electronics,103.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,150.82.95.115,1,velocity
+txn_0086,2026-01-06 05:44:14,card_0004,user_0004,merchant_0028,pharmacy,172.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,101.201.176.147,0,none
+txn_0266,2026-01-03 20:13:02,card_0005,user_0005,merchant_0162,restaurant,80.14,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,73.66.238.241,0,none
+txn_0357,2026-01-01 11:41:58,card_0008,user_0008,merchant_0185,travel,53.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,111.157.239.76,0,none
+txn_0810,2026-01-02 15:06:39,card_0006,user_0006,merchant_0003,entertainment,82.81,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,106.182.232.31,0,none
+txn_0139,2026-01-01 20:42:43,card_0002,user_0002,merchant_0080,electronics,97.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,140.12.180.83,0,none
+txn_0932,2026-01-04 00:55:26,card_0004,user_0004,merchant_0111,grocery,1001.9,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,118.202.49.205,1,amount
+txn_0093,2026-01-06 19:32:41,card_0004,user_0004,merchant_0012,entertainment,193.12,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,81.94.244.192,0,none
+txn_0182,2026-01-02 08:29:47,card_0001,user_0001,merchant_0121,pharmacy,83.62,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,249.1.228.83,0,none
+txn_0322,2026-01-01 23:24:53,card_0001,user_0001,merchant_0167,retail,105.7,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,118.188.57.124,0,none
+txn_0554,2026-01-02 02:23:30,card_0003,user_0003,merchant_0164,electronics,98.11,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,233.93.205.141,0,none
+txn_0641,2026-01-06 04:28:13,card_0005,user_0005,merchant_0076,restaurant,90.02,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,110.8.4.210,0,none
+txn_0617,2026-01-01 04:26:48,card_0002,user_0002,merchant_0009,restaurant,72.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,219.2.148.228,0,none
+txn_0450,2026-01-02 12:15:34,card_0006,user_0006,merchant_0128,retail,113.82,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,229.125.187.191,0,none
+txn_0496,2026-01-05 03:53:33,card_0003,user_0003,merchant_0193,electronics,84.27,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,178.175.176.118,0,none
+txn_0278,2026-01-01 12:19:20,card_0002,user_0002,merchant_0140,restaurant,38.65,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,187.11.195.183,0,none
+txn_0694,2026-01-01 22:25:18,card_0008,user_0008,merchant_0077,gas,54.6,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,126.123.30.78,0,none
+txn_0913,2026-01-06 02:28:57,card_0001,user_0001,merchant_0003,retail,55.63,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,139.147.85.201,0,none
+txn_0083,2026-01-02 05:22:04,card_0006,user_0006,merchant_0092,entertainment,84.67,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,228.99.138.194,0,none
+txn_0381,2026-01-06 21:52:24,card_0004,user_0004,merchant_0011,retail,127.33,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,178.6.101.39,0,none
+txn_0035,2026-01-01 15:00:15,card_0007,user_0007,merchant_0161,electronics,25.23,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,215.249.171.208,0,none
+txn_0869,2026-01-02 05:36:41,card_0004,user_0004,merchant_0103,retail,82.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,17.234.194.68,0,none
+txn_0526,2026-01-03 04:31:54,card_0009,user_0009,merchant_0013,gas,159.62,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,82.186.244.253,0,none
+txn_0495,2026-01-01 10:25:04,card_0001,user_0001,merchant_0047,pharmacy,88.81,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,143.98.142.104,0,none
+txn_0228,2026-01-02 00:37:10,card_0003,user_0003,merchant_0020,pharmacy,159.84,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,42.247.81.5,0,none
+txn_0248,2026-01-06 02:02:09,card_0000,user_0000,merchant_0055,gas,38.69,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,241.12.123.203,0,none
+txn_0607,2026-01-05 16:11:42,card_0004,user_0004,merchant_0018,pharmacy,188.74,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,92.99.86.206,0,none
+txn_0059,2026-01-06 11:12:11,card_0002,user_0002,merchant_0116,electronics,75.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,193.168.150.50,0,none
+txn_0924,2026-01-03 00:26:53,card_0003,user_0003,merchant_0118,entertainment,1323.52,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,249.31.152.10,1,amount
+txn_0762,2026-01-01 07:13:29,card_0002,user_0002,merchant_0098,electronics,134.83,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,38.204.37.91,0,none
+txn_1004,2026-01-06 22:58:55,card_0003,user_0003,merchant_0007,pharmacy,164.49,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,129.74.255.60,1,velocity
+txn_0207,2026-01-06 02:27:57,card_0008,user_0008,merchant_0039,electronics,97.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,88.209.125.154,0,none
+txn_0272,2026-01-06 02:58:13,card_0009,user_0009,merchant_0198,gas,81.16,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,115.253.147.23,0,none
+txn_0500,2026-01-02 18:21:55,card_0008,user_0008,merchant_0169,gas,29.99,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,219.124.57.37,0,none
+txn_0203,2026-01-04 18:47:04,card_0002,user_0002,merchant_0052,electronics,71.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,209.204.70.239,0,none
+txn_0380,2026-01-03 08:39:34,card_0004,user_0004,merchant_0071,pharmacy,133.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,85.255.178.45,0,none
+txn_0565,2026-01-05 23:16:59,card_0008,user_0008,merchant_0058,electronics,28.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,85.69.73.147,0,none
+txn_0902,2026-01-03 09:26:57,card_0005,user_0005,merchant_0161,gas,74.43,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,19.241.49.193,0,none
+txn_0635,2026-01-01 04:06:46,card_0001,user_0001,merchant_0140,travel,52.65,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,68.75.173.114,0,none
+txn_0487,2026-01-05 17:59:06,card_0008,user_0008,merchant_0021,gas,48.13,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,16.24.244.13,0,none
+txn_0396,2026-01-02 21:29:43,card_0002,user_0002,merchant_0144,electronics,155.12,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,115.194.6.116,0,none
+txn_0102,2026-01-01 16:08:08,card_0006,user_0006,merchant_0168,entertainment,78.0,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,106.143.47.21,0,none
+txn_0465,2026-01-05 15:34:01,card_0007,user_0007,merchant_0159,restaurant,55.83,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,173.202.156.175,0,none
+txn_0873,2026-01-02 14:42:26,card_0009,user_0009,merchant_0059,electronics,124.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,150.91.53.144,0,none
+txn_0572,2026-01-06 23:56:29,card_0008,user_0008,merchant_0124,electronics,80.18,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,247.92.57.49,0,none
+txn_0052,2026-01-04 20:41:29,card_0006,user_0006,merchant_0087,electronics,112.99,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,125.145.65.193,0,none
+txn_0504,2026-01-01 12:39:44,card_0009,user_0009,merchant_0158,gas,47.67,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,233.249.11.120,0,none
+txn_0176,2026-01-05 00:01:24,card_0006,user_0006,merchant_0044,entertainment,101.8,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,41.170.46.147,0,none
+txn_0862,2026-01-06 15:32:44,card_0001,user_0001,merchant_0034,retail,55.28,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,185.61.220.226,0,none
+txn_0615,2026-01-06 06:42:21,card_0004,user_0004,merchant_0192,pharmacy,163.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,12.52.65.86,0,none
+txn_0993,2026-01-06 13:09:32,card_0006,user_0006,merchant_0124,entertainment,78.6,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,168.96.55.20,1,velocity
+txn_1023,2026-01-04 17:41:19,card_0000,user_0000,merchant_0026,electronics,124.01,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,64.87.111.205,1,velocity
+txn_0898,2026-01-03 22:11:58,card_0006,user_0006,merchant_0138,retail,114.98,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,9.63.48.210,0,none
+txn_0711,2026-01-04 20:17:13,card_0009,user_0009,merchant_0132,electronics,66.87,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,163.187.235.191,0,none
+txn_1018,2026-01-06 06:18:59,card_0000,user_0000,merchant_0172,gas,116.26,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,107.172.80.97,1,velocity
+txn_0834,2026-01-02 13:43:35,card_0007,user_0007,merchant_0196,restaurant,108.58,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,240.133.222.220,0,none
+txn_0701,2026-01-04 21:58:28,card_0001,user_0001,merchant_0112,pharmacy,59.8,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,179.84.109.81,0,none
+txn_0446,2026-01-03 17:57:32,card_0007,user_0007,merchant_0137,travel,100.02,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,242.146.149.60,0,none
+txn_0296,2026-01-02 02:58:18,card_0001,user_0001,merchant_0104,retail,64.82,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,230.202.156.202,0,none
+txn_1035,2026-01-03 04:09:51,card_0001,user_0001,merchant_0166,retail,108.77,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,250.32.115.34,1,velocity
+txn_0497,2026-01-03 18:45:37,card_0001,user_0001,merchant_0162,travel,64.87,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,190.108.19.77,0,none
+txn_0457,2026-01-01 22:50:04,card_0000,user_0000,merchant_0019,gas,31.94,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,33.142.220.167,0,none
+txn_0331,2026-01-04 16:23:24,card_0001,user_0001,merchant_0039,retail,70.95,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,241.110.26.228,0,none
+txn_0065,2026-01-05 07:54:51,card_0008,user_0008,merchant_0106,travel,68.48,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,168.232.11.148,0,none
+txn_0684,2026-01-01 19:21:55,card_0002,user_0002,merchant_0168,electronics,8.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,95.209.78.197,0,none
+txn_0849,2026-01-04 21:41:09,card_0008,user_0008,merchant_0124,travel,25.55,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,182.160.226.129,0,none
+txn_0358,2026-01-06 14:58:27,card_0003,user_0003,merchant_0156,travel,97.71,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,83.132.103.199,0,none
+txn_0425,2026-01-03 07:53:34,card_0005,user_0005,merchant_0008,entertainment,108.32,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,235.211.42.164,0,none
+txn_1051,2026-01-02 03:41:33,card_0005,user_0005,merchant_0133,restaurant,83.08,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,118.131.152.121,1,velocity
+txn_0318,2026-01-02 06:05:10,card_0002,user_0002,merchant_0125,restaurant,14.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,244.222.51.129,0,none
+txn_0473,2026-01-01 09:30:46,card_0003,user_0003,merchant_0136,entertainment,252.02,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,62.253.94.8,0,none
+txn_0363,2026-01-03 07:27:44,card_0001,user_0001,merchant_0100,pharmacy,77.86,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,136.7.157.90,0,none
+txn_0986,2026-01-01 05:32:55,card_0008,user_0008,merchant_0195,travel,44.41,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,221.200.120.1,1,velocity
+txn_0734,2026-01-06 02:10:56,card_0006,user_0006,merchant_0012,entertainment,68.96,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,13.64.35.64,0,none
+txn_0539,2026-01-06 05:43:05,card_0007,user_0007,merchant_0051,restaurant,64.4,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,82.135.134.205,0,none
+txn_0197,2026-01-03 02:29:37,card_0007,user_0007,merchant_0162,travel,135.11,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,174.68.51.87,0,none
+txn_0910,2026-01-06 12:33:01,card_0006,user_0006,merchant_0061,entertainment,102.24,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,28.100.42.17,0,none
+txn_0805,2026-01-01 08:45:26,card_0008,user_0008,merchant_0102,gas,83.34,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,91.7.219.15,0,none
+txn_0461,2026-01-05 05:07:26,card_0005,user_0005,merchant_0195,restaurant,58.25,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,15.160.180.38,0,none
+txn_0700,2026-01-03 05:12:05,card_0009,user_0009,merchant_0043,gas,80.82,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,224.119.152.20,0,none
+txn_0610,2026-01-01 02:57:16,card_0002,user_0002,merchant_0013,restaurant,90.05,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,67.201.251.235,0,none
+txn_0517,2026-01-06 04:08:01,card_0000,user_0000,merchant_0049,electronics,204.96,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,130.185.45.36,0,none
+txn_0512,2026-01-03 05:59:49,card_0006,user_0006,merchant_0150,retail,99.57,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,170.163.223.212,0,none
+txn_0570,2026-01-01 18:11:51,card_0009,user_0009,merchant_0141,gas,100.23,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,84.216.53.40,0,none
+txn_0195,2026-01-05 21:01:28,card_0001,user_0001,merchant_0004,pharmacy,119.53,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,242.70.241.211,0,none
+txn_0961,2026-01-02 05:13:04,card_0006,user_0006,merchant_0139,pharmacy,115.63,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,101.106.153.35,1,merchant
+txn_0912,2026-01-03 19:11:39,card_0002,user_0002,merchant_0165,restaurant,156.36,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,21.27.250.160,0,none
+txn_0818,2026-01-05 04:17:18,card_0000,user_0000,merchant_0044,retail,145.5,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,66.244.191.185,0,none
+txn_0695,2026-01-03 14:41:34,card_0002,user_0002,merchant_0167,electronics,114.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,19.107.91.120,0,none
+txn_0257,2026-01-03 12:08:27,card_0006,user_0006,merchant_0139,electronics,136.31,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,67.8.254.16,0,none
+txn_0708,2026-01-03 03:25:50,card_0005,user_0005,merchant_0068,gas,38.29,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,214.167.44.145,0,none
+txn_0041,2026-01-03 09:24:05,card_0005,user_0005,merchant_0097,restaurant,116.7,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,130.201.166.59,0,none
+txn_0981,2026-01-02 11:49:58,card_0002,user_0002,merchant_0040,electronics,149.49,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,79.223.73.23,1,velocity
+txn_0725,2026-01-06 14:23:35,card_0005,user_0005,merchant_0004,entertainment,105.16,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,184.49.253.70,0,none
+txn_0808,2026-01-04 22:12:00,card_0003,user_0003,merchant_0113,electronics,52.92,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,254.102.146.245,0,none
+txn_1001,2026-01-04 04:12:20,card_0003,user_0003,merchant_0080,pharmacy,205.07,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,240.10.76.239,1,velocity
+txn_0130,2026-01-06 10:40:59,card_0004,user_0004,merchant_0023,pharmacy,153.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,3.218.147.139,0,none
+txn_0235,2026-01-03 02:38:33,card_0000,user_0000,merchant_0161,retail,229.03,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,162.174.141.83,0,none
+txn_0578,2026-01-03 18:37:31,card_0001,user_0001,merchant_0150,retail,58.78,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,253.183.139.79,0,none
+txn_0338,2026-01-05 10:02:22,card_0003,user_0003,merchant_0034,pharmacy,201.81,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,128.244.199.114,0,none
+txn_0911,2026-01-06 18:05:12,card_0003,user_0003,merchant_0060,entertainment,153.2,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,162.155.224.5,0,none
+txn_0593,2026-01-04 12:04:57,card_0008,user_0008,merchant_0174,electronics,52.63,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,245.77.41.85,0,none
+txn_0018,2026-01-02 12:35:29,card_0002,user_0002,merchant_0112,restaurant,52.02,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,179.247.44.149,0,none
+txn_0344,2026-01-06 23:08:06,card_0006,user_0006,merchant_0035,electronics,60.5,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,163.224.32.112,0,none
+txn_0168,2026-01-03 19:47:44,card_0006,user_0006,merchant_0127,retail,71.51,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,218.226.206.211,0,none
+txn_0664,2026-01-05 07:04:21,card_0007,user_0007,merchant_0170,restaurant,77.05,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,16.186.233.195,0,none
+txn_0588,2026-01-03 15:52:23,card_0006,user_0006,merchant_0061,entertainment,62.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,235.213.178.90,0,none
+txn_0859,2026-01-02 06:39:16,card_0004,user_0004,merchant_0074,grocery,194.92,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,254.147.76.38,0,none
+txn_0046,2026-01-04 10:50:38,card_0001,user_0001,merchant_0146,travel,34.37,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,109.125.43.83,0,none
+txn_0800,2026-01-03 17:29:56,card_0002,user_0002,merchant_0168,electronics,102.89,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,77.212.29.35,0,none
+txn_0187,2026-01-05 07:50:44,card_0009,user_0009,merchant_0153,electronics,125.85,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,64.120.135.174,0,none
+txn_0143,2026-01-06 12:03:26,card_0002,user_0002,merchant_0113,electronics,184.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,137.96.57.217,0,none
+txn_0335,2026-01-06 14:09:53,card_0009,user_0009,merchant_0048,gas,40.19,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,60.217.239.63,0,none
+txn_0133,2026-01-03 19:28:28,card_0008,user_0008,merchant_0111,electronics,103.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,179.243.114.244,0,none
+txn_1049,2026-01-02 03:41:44,card_0005,user_0005,merchant_0010,entertainment,49.82,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,121.80.30.106,1,velocity
+txn_0974,2026-01-06 09:52:36,card_0009,user_0009,merchant_0138,travel,103.52,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,77.28.158.14,1,merchant
+txn_0620,2026-01-02 03:12:45,card_0006,user_0006,merchant_0064,retail,58.63,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,247.216.178.65,0,none
+txn_0704,2026-01-04 02:18:29,card_0007,user_0007,merchant_0090,travel,7.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,76.168.15.119,0,none
+txn_0736,2026-01-03 19:06:15,card_0005,user_0005,merchant_0194,entertainment,124.65,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,107.48.174.246,0,none
+txn_0478,2026-01-02 22:28:20,card_0005,user_0005,merchant_0007,gas,15.52,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,162.117.117.159,0,none
+txn_0662,2026-01-01 03:10:34,card_0001,user_0001,merchant_0167,retail,72.34,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,30.127.225.179,0,none
+txn_0718,2026-01-05 16:54:05,card_0005,user_0005,merchant_0022,gas,84.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,198.203.51.121,0,none
+txn_0213,2026-01-02 23:41:51,card_0002,user_0002,merchant_0185,restaurant,30.86,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,179.153.6.3,0,none
+txn_0192,2026-01-06 22:21:51,card_0008,user_0008,merchant_0116,travel,54.49,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,142.119.12.115,0,none
+txn_0078,2026-01-06 08:53:12,card_0007,user_0007,merchant_0045,travel,67.48,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,247.240.139.252,0,none
+txn_0899,2026-01-02 17:16:45,card_0003,user_0003,merchant_0136,entertainment,104.18,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,28.254.158.173,0,none
+txn_0016,2026-01-03 03:59:59,card_0007,user_0007,merchant_0191,travel,65.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,122.89.95.212,0,none
+txn_0459,2026-01-02 19:48:47,card_0009,user_0009,merchant_0047,gas,37.21,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,173.224.170.88,0,none
+txn_0407,2026-01-02 07:50:09,card_0003,user_0003,merchant_0056,entertainment,103.26,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,209.122.54.157,0,none
+txn_0377,2026-01-03 06:01:09,card_0003,user_0003,merchant_0130,travel,215.22,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,61.76.237.77,0,none
+txn_0225,2026-01-05 20:57:42,card_0007,user_0007,merchant_0022,travel,126.89,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,116.231.104.201,0,none
+txn_0214,2026-01-03 02:34:56,card_0000,user_0000,merchant_0011,gas,78.92,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,107.113.237.27,0,none
+txn_0536,2026-01-04 15:39:16,card_0005,user_0005,merchant_0026,entertainment,95.2,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,232.21.133.34,0,none
+txn_0786,2026-01-04 13:18:38,card_0000,user_0000,merchant_0124,electronics,179.13,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,173.174.62.193,0,none
+txn_0115,2026-01-06 11:29:15,card_0006,user_0006,merchant_0195,retail,137.48,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,134.214.86.151,0,none
+txn_0638,2026-01-02 13:57:31,card_0003,user_0003,merchant_0151,electronics,169.43,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,53.20.180.107,0,none
+txn_0682,2026-01-01 10:23:40,card_0008,user_0008,merchant_0011,electronics,53.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,2.90.177.56,0,none
+txn_0979,2026-01-02 05:49:02,card_0001,user_0001,merchant_0071,entertainment,39.76,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,31.120.192.21,1,merchant
+txn_0058,2026-01-01 20:22:31,card_0006,user_0006,merchant_0147,electronics,63.42,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,226.163.153.206,0,none
+txn_0609,2026-01-05 17:46:14,card_0005,user_0005,merchant_0004,entertainment,81.19,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,208.198.188.60,0,none
+txn_0246,2026-01-04 21:00:08,card_0000,user_0000,merchant_0087,electronics,239.04,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,33.6.217.17,0,none
+txn_0472,2026-01-06 23:47:27,card_0009,user_0009,merchant_0170,gas,99.53,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,25.244.183.53,0,none
+txn_0395,2026-01-03 02:07:17,card_0006,user_0006,merchant_0156,entertainment,74.85,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,54.245.122.98,0,none
+txn_0766,2026-01-02 22:28:20,card_0009,user_0009,merchant_0074,electronics,34.0,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,172.56.216.148,0,none
+txn_0074,2026-01-06 09:17:51,card_0005,user_0005,merchant_0012,restaurant,61.83,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,239.52.194.16,0,none
+txn_0770,2026-01-05 08:13:05,card_0004,user_0004,merchant_0030,retail,121.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,167.69.192.106,0,none
+txn_0402,2026-01-06 20:45:22,card_0008,user_0008,merchant_0153,travel,85.88,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,38.197.71.129,0,none
+txn_0874,2026-01-06 15:59:08,card_0006,user_0006,merchant_0152,electronics,118.12,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,135.179.35.215,0,none
+txn_0456,2026-01-03 08:00:46,card_0000,user_0000,merchant_0005,gas,150.77,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,5.147.5.37,0,none
+txn_0964,2026-01-01 19:50:20,card_0006,user_0006,merchant_0059,travel,100.26,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,193.78.157.153,1,merchant
+txn_0997,2026-01-04 04:15:42,card_0003,user_0003,merchant_0072,pharmacy,108.33,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,41.125.248.206,1,velocity
+txn_0141,2026-01-01 03:13:00,card_0008,user_0008,merchant_0174,gas,39.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,196.253.121.216,0,none
+txn_0304,2026-01-03 20:32:36,card_0007,user_0007,merchant_0084,electronics,81.87,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,209.113.141.204,0,none
+txn_0432,2026-01-06 16:20:31,card_0004,user_0004,merchant_0087,entertainment,128.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,159.206.114.185,0,none
+txn_0441,2026-01-02 10:37:12,card_0002,user_0002,merchant_0059,electronics,99.42,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,107.5.23.153,0,none
+txn_0510,2026-01-06 13:25:03,card_0005,user_0005,merchant_0178,gas,91.29,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,21.125.110.25,0,none
+txn_0285,2026-01-06 04:11:44,card_0003,user_0003,merchant_0092,travel,162.81,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,132.161.122.156,0,none
+txn_1013,2026-01-04 04:40:31,card_0007,user_0007,merchant_0080,pharmacy,82.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,92.69.166.70,1,velocity
+txn_0184,2026-01-03 01:51:04,card_0003,user_0003,merchant_0137,electronics,125.18,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,18.178.15.114,0,none
+txn_0600,2026-01-03 21:32:13,card_0004,user_0004,merchant_0113,entertainment,69.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,156.21.246.30,0,none
+txn_0030,2026-01-03 02:51:21,card_0008,user_0008,merchant_0097,travel,79.85,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,82.44.19.86,0,none
+txn_0944,2026-01-01 06:50:30,card_0001,user_0001,merchant_0104,retail,83.27,USD,online,purchase,Miami,FL,US,25.7617,-80.1918,device_0001,127.30.136.181,1,geo
+txn_0325,2026-01-02 07:01:51,card_0003,user_0003,merchant_0037,travel,112.54,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,69.72.248.208,0,none
+txn_0293,2026-01-04 12:47:33,card_0001,user_0001,merchant_0084,travel,56.73,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,36.15.239.178,0,none
+txn_0063,2026-01-01 20:45:50,card_0006,user_0006,merchant_0147,entertainment,111.02,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,242.55.106.91,0,none
+txn_0887,2026-01-04 04:22:22,card_0009,user_0009,merchant_0105,electronics,130.81,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,162.26.192.148,0,none
+txn_0598,2026-01-04 04:41:23,card_0003,user_0003,merchant_0054,pharmacy,123.79,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,118.2.83.121,0,none
+txn_0580,2026-01-06 08:47:04,card_0009,user_0009,merchant_0045,gas,126.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,237.229.188.244,0,none
+txn_0624,2026-01-03 11:43:51,card_0007,user_0007,merchant_0110,electronics,82.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,42.154.254.167,0,none
+txn_0634,2026-01-02 17:44:57,card_0002,user_0002,merchant_0200,electronics,178.22,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,87.239.216.55,0,none
+txn_0723,2026-01-06 12:49:55,card_0004,user_0004,merchant_0048,entertainment,108.4,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,210.207.137.224,0,none
+txn_0161,2026-01-03 18:09:53,card_0002,user_0002,merchant_0200,electronics,145.68,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,160.157.178.165,0,none
+txn_0096,2026-01-04 19:06:41,card_0001,user_0001,merchant_0028,pharmacy,44.69,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,220.190.62.30,0,none
+txn_0612,2026-01-03 05:55:11,card_0004,user_0004,merchant_0007,retail,28.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,124.110.127.139,0,none
+txn_1046,2026-01-02 19:09:34,card_0007,user_0007,merchant_0056,electronics,172.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,137.30.193.143,1,velocity
+txn_0048,2026-01-03 02:04:35,card_0002,user_0002,merchant_0200,electronics,93.46,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,55.33.62.248,0,none
+txn_0756,2026-01-01 10:29:44,card_0000,user_0000,merchant_0013,retail,61.62,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,14.187.194.3,0,none
+txn_0540,2026-01-02 00:59:53,card_0008,user_0008,merchant_0175,electronics,78.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,103.233.73.118,0,none
+txn_0101,2026-01-01 03:47:12,card_0005,user_0005,merchant_0190,gas,82.23,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,81.81.132.232,0,none
+txn_0098,2026-01-05 08:31:05,card_0002,user_0002,merchant_0085,restaurant,37.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,65.215.152.91,0,none
+txn_0829,2026-01-04 16:42:32,card_0002,user_0002,merchant_0008,electronics,130.89,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,157.86.75.173,0,none
+txn_0123,2026-01-05 01:18:30,card_0008,user_0008,merchant_0121,gas,76.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,124.63.166.171,0,none
+txn_0227,2026-01-04 17:18:50,card_0005,user_0005,merchant_0079,entertainment,61.18,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,34.251.58.161,0,none
+txn_0312,2026-01-05 15:47:28,card_0000,user_0000,merchant_0176,retail,146.0,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,129.243.59.116,0,none
+txn_0422,2026-01-04 17:07:01,card_0006,user_0006,merchant_0123,retail,40.63,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,131.11.30.122,0,none
+txn_0614,2026-01-05 03:07:05,card_0007,user_0007,merchant_0080,travel,50.49,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,248.62.206.65,0,none
+txn_1017,2026-01-06 06:16:59,card_0000,user_0000,merchant_0033,retail,224.38,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,54.219.102.6,1,velocity
+txn_0084,2026-01-05 23:05:27,card_0001,user_0001,merchant_0067,retail,84.67,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,2.194.140.121,0,none
+txn_0406,2026-01-06 10:03:27,card_0004,user_0004,merchant_0117,retail,80.51,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,254.165.52.180,0,none
+txn_0249,2026-01-03 06:10:10,card_0009,user_0009,merchant_0134,electronics,91.78,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,89.118.151.116,0,none
+txn_1015,2026-01-04 04:36:05,card_0007,user_0007,merchant_0054,travel,53.89,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,167.254.121.67,1,velocity
+txn_0021,2026-01-06 09:23:27,card_0002,user_0002,merchant_0133,restaurant,106.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,232.66.103.144,0,none
+txn_0608,2026-01-03 06:29:49,card_0002,user_0002,merchant_0013,electronics,208.52,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,9.27.167.67,0,none
+txn_0471,2026-01-03 17:47:33,card_0003,user_0003,merchant_0012,electronics,114.26,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,31.93.207.166,0,none
+txn_0112,2026-01-01 21:16:56,card_0001,user_0001,merchant_0089,pharmacy,91.46,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,55.125.164.223,0,none
+txn_1036,2026-01-03 04:11:31,card_0001,user_0001,merchant_0094,pharmacy,33.27,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,224.44.158.107,1,velocity
+txn_0259,2026-01-03 23:27:24,card_0005,user_0005,merchant_0103,gas,132.84,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,93.18.43.53,0,none
+txn_0813,2026-01-05 07:27:37,card_0007,user_0007,merchant_0158,restaurant,78.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,92.109.63.101,0,none
+txn_0354,2026-01-03 00:35:10,card_0002,user_0002,merchant_0032,restaurant,130.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,14.11.156.242,0,none
+txn_0953,2026-01-04 12:36:05,card_0008,user_0008,merchant_0064,electronics,69.05,USD,card_present,purchase,Dallas,TX,US,32.7767,-96.797,device_0008,98.253.139.129,1,geo
+txn_0171,2026-01-04 14:57:29,card_0003,user_0003,merchant_0108,pharmacy,71.07,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,211.63.197.51,0,none
+txn_0346,2026-01-01 01:27:43,card_0006,user_0006,merchant_0054,electronics,115.86,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,129.178.177.32,0,none
+txn_0747,2026-01-04 19:37:40,card_0007,user_0007,merchant_0159,travel,54.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,251.177.173.26,0,none
+txn_0618,2026-01-06 17:33:57,card_0004,user_0004,merchant_0118,pharmacy,168.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,229.87.118.161,0,none
+txn_0014,2026-01-04 18:56:26,card_0002,user_0002,merchant_0022,restaurant,136.22,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,193.31.91.44,0,none
+txn_0037,2026-01-01 17:25:38,card_0000,user_0000,merchant_0122,electronics,33.76,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,1.30.44.108,0,none
+txn_0546,2026-01-06 18:52:01,card_0001,user_0001,merchant_0142,pharmacy,86.78,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,148.175.195.198,0,none
+txn_0411,2026-01-06 18:39:45,card_0007,user_0007,merchant_0132,pharmacy,103.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,141.101.156.252,0,none
+txn_0625,2026-01-04 07:10:49,card_0006,user_0006,merchant_0045,retail,70.72,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,191.62.223.140,0,none
+txn_0841,2026-01-01 15:07:05,card_0009,user_0009,merchant_0130,gas,97.56,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,114.60.111.97,0,none
+txn_0008,2026-01-04 19:54:31,card_0002,user_0002,merchant_0034,restaurant,138.78,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,28.217.50.191,0,none
+txn_0931,2026-01-04 04:20:39,card_0005,user_0005,merchant_0085,gas,623.23,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,202.126.139.240,1,amount
+txn_0559,2026-01-05 17:19:04,card_0006,user_0006,merchant_0077,retail,89.01,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,5.97.154.142,0,none
+txn_0794,2026-01-01 07:59:51,card_0001,user_0001,merchant_0155,pharmacy,77.96,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,249.148.150.108,0,none
+txn_0599,2026-01-03 00:05:06,card_0000,user_0000,merchant_0174,retail,176.52,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,120.197.81.156,0,none
+txn_0408,2026-01-02 14:14:35,card_0005,user_0005,merchant_0200,entertainment,49.85,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,196.181.7.252,0,none
+txn_0219,2026-01-04 02:12:48,card_0003,user_0003,merchant_0196,travel,112.41,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,177.71.143.194,0,none
+txn_0710,2026-01-05 10:06:26,card_0000,user_0000,merchant_0172,retail,241.09,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,190.216.3.180,0,none
+txn_0216,2026-01-03 04:50:59,card_0005,user_0005,merchant_0035,gas,53.62,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,62.128.19.58,0,none
+txn_0623,2026-01-05 18:19:00,card_0004,user_0004,merchant_0049,pharmacy,171.93,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,83.221.213.189,0,none
+txn_0230,2026-01-01 04:55:38,card_0006,user_0006,merchant_0015,retail,90.85,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,174.204.252.28,0,none
+txn_1024,2026-01-04 17:38:59,card_0000,user_0000,merchant_0122,gas,62.07,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,226.156.252.192,1,velocity
+txn_0781,2026-01-06 16:48:55,card_0001,user_0001,merchant_0074,pharmacy,40.98,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,233.214.79.225,0,none
+txn_0939,2026-01-04 17:16:39,card_0002,user_0002,merchant_0180,electronics,1049.96,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,153.154.228.245,1,amount
+txn_0999,2026-01-04 04:16:39,card_0003,user_0003,merchant_0099,pharmacy,117.95,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,155.30.69.36,1,velocity
+txn_0790,2026-01-02 08:24:47,card_0007,user_0007,merchant_0051,pharmacy,59.21,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,141.85.52.107,0,none
+txn_0111,2026-01-06 15:04:24,card_0005,user_0005,merchant_0057,entertainment,53.16,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,126.107.29.80,0,none
+txn_0253,2026-01-06 13:52:50,card_0000,user_0000,merchant_0169,retail,121.83,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,236.2.127.211,0,none
+txn_0260,2026-01-01 04:21:06,card_0002,user_0002,merchant_0056,electronics,118.93,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,181.55.95.248,0,none
+txn_0276,2026-01-05 02:22:26,card_0008,user_0008,merchant_0122,travel,55.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,49.221.158.99,0,none
+txn_0920,2026-01-06 15:54:33,card_0009,user_0009,merchant_0105,gas,841.7,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,90.164.225.153,1,amount
+txn_0051,2026-01-01 22:08:24,card_0007,user_0007,merchant_0118,pharmacy,47.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,94.201.223.91,0,none
+txn_0748,2026-01-05 08:27:24,card_0008,user_0008,merchant_0082,travel,40.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,44.204.119.18,0,none
+txn_0968,2026-01-04 00:29:46,card_0008,user_0008,merchant_0185,retail,64.34,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,205.75.135.227,1,merchant
+txn_0005,2026-01-06 04:29:56,card_0007,user_0007,merchant_0168,travel,74.21,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,18.27.133.21,0,none
+txn_0732,2026-01-01 06:39:16,card_0001,user_0001,merchant_0099,pharmacy,49.59,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,22.53.47.112,0,none
+txn_0637,2026-01-03 10:40:45,card_0009,user_0009,merchant_0177,gas,94.52,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,49.57.177.34,0,none
+txn_0870,2026-01-04 05:16:22,card_0007,user_0007,merchant_0127,pharmacy,83.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,242.34.121.59,0,none
+txn_0548,2026-01-03 14:02:09,card_0002,user_0002,merchant_0057,electronics,53.37,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,92.108.165.239,0,none
+txn_0626,2026-01-02 07:56:27,card_0008,user_0008,merchant_0042,electronics,78.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,45.70.49.65,0,none
+txn_0842,2026-01-02 15:45:11,card_0005,user_0005,merchant_0068,restaurant,83.44,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,252.110.36.237,0,none
+txn_0538,2026-01-05 04:24:14,card_0001,user_0001,merchant_0172,pharmacy,102.33,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,222.129.49.146,0,none
+txn_0579,2026-01-04 14:26:14,card_0005,user_0005,merchant_0090,entertainment,84.05,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,254.192.93.115,0,none
+txn_0837,2026-01-01 03:58:57,card_0008,user_0008,merchant_0080,travel,27.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,1.95.142.37,0,none
+txn_0231,2026-01-02 20:27:00,card_0003,user_0003,merchant_0091,travel,183.7,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,212.188.134.213,0,none
+txn_0317,2026-01-01 20:39:34,card_0007,user_0007,merchant_0060,travel,58.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,67.4.208.252,0,none
+txn_0505,2026-01-06 21:38:45,card_0005,user_0005,merchant_0142,restaurant,86.54,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,183.244.172.87,0,none
+txn_0194,2026-01-01 09:51:31,card_0009,user_0009,merchant_0021,gas,170.65,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,119.205.98.168,0,none
+txn_0333,2026-01-04 02:33:19,card_0009,user_0009,merchant_0098,gas,83.84,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,248.189.58.239,0,none
+txn_0490,2026-01-01 06:12:10,card_0006,user_0006,merchant_0080,entertainment,106.51,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,14.165.146.226,0,none
+txn_0038,2026-01-04 10:17:17,card_0006,user_0006,merchant_0064,entertainment,15.55,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,243.29.42.4,0,none
+txn_0970,2026-01-01 03:07:46,card_0002,user_0002,merchant_0178,gas,70.4,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,83.198.86.59,1,merchant
+txn_1048,2026-01-02 19:10:45,card_0007,user_0007,merchant_0134,pharmacy,41.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,120.152.82.44,1,velocity
+txn_0760,2026-01-01 12:08:04,card_0009,user_0009,merchant_0181,electronics,126.27,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,226.20.10.190,0,none
+txn_0321,2026-01-03 02:52:36,card_0005,user_0005,merchant_0032,gas,68.08,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,100.254.102.144,0,none
+txn_0563,2026-01-03 14:58:11,card_0002,user_0002,merchant_0165,electronics,133.99,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,127.68.119.160,0,none
+txn_0506,2026-01-05 21:46:12,card_0000,user_0000,merchant_0045,retail,189.9,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,20.104.94.131,0,none
+txn_0929,2026-01-02 11:12:43,card_0007,user_0007,merchant_0182,pharmacy,810.51,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,101.4.200.112,1,amount
+txn_0412,2026-01-03 11:38:41,card_0008,user_0008,merchant_0145,travel,61.78,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,200.93.206.111,0,none
+txn_0151,2026-01-02 16:39:13,card_0004,user_0004,merchant_0135,entertainment,250.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,250.236.172.59,0,none
+txn_0733,2026-01-01 23:35:13,card_0009,user_0009,merchant_0139,gas,76.16,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,121.9.15.174,0,none
+txn_0537,2026-01-03 04:38:15,card_0002,user_0002,merchant_0167,electronics,115.74,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,98.120.28.182,0,none
+txn_0980,2026-01-02 11:51:03,card_0002,user_0002,merchant_0004,restaurant,133.72,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,154.107.115.6,1,velocity
+txn_1056,2026-01-01 06:30:40,card_0002,user_0002,merchant_0160,restaurant,97.01,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,158.235.84.249,1,velocity
+txn_0549,2026-01-05 18:31:08,card_0009,user_0009,merchant_0098,electronics,111.32,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,169.96.206.140,0,none
+txn_0851,2026-01-05 14:18:33,card_0000,user_0000,merchant_0004,electronics,249.9,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,97.164.53.51,0,none
+txn_0383,2026-01-05 14:02:54,card_0004,user_0004,merchant_0156,retail,193.96,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,180.195.123.246,0,none
+txn_0729,2026-01-04 15:34:38,card_0007,user_0007,merchant_0130,electronics,64.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,130.156.59.9,0,none
+txn_0906,2026-01-01 16:58:40,card_0000,user_0000,merchant_0017,retail,142.02,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,97.134.199.228,0,none
+txn_1034,2026-01-03 04:13:50,card_0001,user_0001,merchant_0123,pharmacy,82.19,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,84.150.215.46,1,velocity
+txn_0613,2026-01-02 03:22:05,card_0006,user_0006,merchant_0173,electronics,53.58,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,235.86.227.87,0,none
+txn_0292,2026-01-01 21:25:42,card_0004,user_0004,merchant_0180,retail,233.85,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,164.19.181.88,0,none
+txn_0245,2026-01-01 11:17:22,card_0001,user_0001,merchant_0034,retail,89.07,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,101.10.195.249,0,none
+txn_0774,2026-01-06 23:50:30,card_0009,user_0009,merchant_0092,gas,57.86,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,83.173.204.126,0,none
+txn_0211,2026-01-06 11:17:49,card_0005,user_0005,merchant_0176,gas,99.68,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,105.200.213.129,0,none
+txn_0716,2026-01-03 06:36:27,card_0009,user_0009,merchant_0191,electronics,99.06,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,121.223.109.72,0,none
+txn_0707,2026-01-02 01:31:32,card_0005,user_0005,merchant_0003,entertainment,43.77,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,4.109.231.182,0,none
+txn_0639,2026-01-05 13:19:35,card_0004,user_0004,merchant_0055,grocery,176.08,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,3.203.228.151,0,none
+txn_0992,2026-01-02 23:41:14,card_0003,user_0003,merchant_0101,electronics,104.45,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,111.124.58.93,1,velocity
+txn_0264,2026-01-03 08:06:30,card_0000,user_0000,merchant_0102,gas,235.32,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,64.115.116.246,0,none
+txn_0630,2026-01-03 06:43:05,card_0007,user_0007,merchant_0186,restaurant,80.15,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,31.89.94.209,0,none
+txn_0480,2026-01-05 14:54:09,card_0004,user_0004,merchant_0169,grocery,264.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,118.203.65.135,0,none
+txn_0399,2026-01-04 12:10:33,card_0000,user_0000,merchant_0149,electronics,140.17,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,241.31.129.175,0,none
+txn_0706,2026-01-01 08:02:26,card_0006,user_0006,merchant_0069,electronics,110.58,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,230.27.190.235,0,none
+txn_0689,2026-01-02 20:52:56,card_0004,user_0004,merchant_0010,grocery,159.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,44.153.130.6,0,none
+txn_0827,2026-01-05 03:19:52,card_0002,user_0002,merchant_0040,restaurant,132.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,176.12.234.77,0,none
+txn_0315,2026-01-05 01:03:39,card_0003,user_0003,merchant_0016,travel,115.72,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,57.84.35.78,0,none
+txn_0811,2026-01-06 02:19:17,card_0000,user_0000,merchant_0150,retail,77.15,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,104.126.168.248,0,none
+txn_0643,2026-01-05 15:11:20,card_0008,user_0008,merchant_0126,travel,28.18,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,118.135.142.79,0,none
+txn_0652,2026-01-02 22:19:14,card_0001,user_0001,merchant_0089,retail,34.84,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,95.229.62.206,0,none
+txn_0462,2026-01-01 08:43:10,card_0002,user_0002,merchant_0115,restaurant,95.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,218.122.172.13,0,none
+txn_0826,2026-01-05 10:37:49,card_0008,user_0008,merchant_0157,electronics,39.8,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,80.19.199.177,0,none
+txn_0483,2026-01-05 22:00:29,card_0002,user_0002,merchant_0047,electronics,125.46,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,103.38.156.25,0,none
+txn_0469,2026-01-01 06:55:23,card_0005,user_0005,merchant_0091,entertainment,71.98,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,42.10.47.8,0,none
+txn_0356,2026-01-04 22:30:35,card_0005,user_0005,merchant_0051,entertainment,68.54,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,69.119.142.9,0,none
+txn_0957,2026-01-03 20:10:49,card_0008,user_0008,merchant_0012,gas,60.18,USD,card_present,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0008,170.221.21.206,1,geo
+txn_0754,2026-01-04 12:38:21,card_0007,user_0007,merchant_0003,travel,58.88,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,182.4.53.22,0,none
+txn_0118,2026-01-04 16:59:47,card_0005,user_0005,merchant_0007,entertainment,110.09,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,81.7.46.64,0,none
+txn_0099,2026-01-02 00:43:01,card_0007,user_0007,merchant_0172,electronics,69.27,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,242.246.229.221,0,none
+txn_0857,2026-01-03 10:56:09,card_0009,user_0009,merchant_0057,electronics,86.46,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,217.161.65.131,0,none
+txn_0724,2026-01-05 06:45:23,card_0009,user_0009,merchant_0149,electronics,120.12,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,14.157.149.28,0,none
+txn_0169,2026-01-02 06:26:59,card_0006,user_0006,merchant_0178,electronics,76.94,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,65.250.189.87,0,none
+txn_0166,2026-01-01 16:08:28,card_0002,user_0002,merchant_0036,electronics,102.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,150.13.60.115,0,none
+txn_0385,2026-01-04 21:22:08,card_0002,user_0002,merchant_0100,electronics,78.12,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,100.128.137.130,0,none
+txn_0439,2026-01-02 21:40:27,card_0007,user_0007,merchant_0153,electronics,131.71,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,60.115.254.135,0,none
+txn_1027,2026-01-06 16:01:27,card_0002,user_0002,merchant_0142,restaurant,123.96,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,72.55.150.223,1,velocity
+txn_0167,2026-01-02 07:42:02,card_0008,user_0008,merchant_0148,gas,42.44,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,241.232.103.197,0,none
+txn_0759,2026-01-03 05:22:44,card_0006,user_0006,merchant_0051,retail,76.88,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,204.238.201.208,0,none
+txn_0640,2026-01-02 08:25:04,card_0009,user_0009,merchant_0085,electronics,89.06,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,153.230.2.90,0,none
+txn_0188,2026-01-02 12:20:07,card_0000,user_0000,merchant_0042,electronics,210.71,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,20.144.99.247,0,none
+txn_0705,2026-01-03 21:10:36,card_0001,user_0001,merchant_0120,retail,53.62,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,48.206.194.122,0,none
+txn_0838,2026-01-01 16:57:47,card_0000,user_0000,merchant_0047,electronics,157.69,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,214.236.103.129,0,none
+txn_0210,2026-01-02 07:04:24,card_0003,user_0003,merchant_0185,pharmacy,190.97,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,135.5.110.167,0,none
+txn_0814,2026-01-03 15:02:27,card_0006,user_0006,merchant_0105,entertainment,120.99,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,144.244.242.231,0,none
+txn_0820,2026-01-04 04:47:51,card_0004,user_0004,merchant_0014,pharmacy,93.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,23.41.146.154,0,none
+txn_0825,2026-01-04 21:35:10,card_0003,user_0003,merchant_0145,travel,154.34,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,160.246.167.75,0,none
+txn_1000,2026-01-04 04:13:49,card_0003,user_0003,merchant_0085,travel,75.81,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,182.37.190.211,1,velocity
+txn_1042,2026-01-04 03:45:24,card_0009,user_0009,merchant_0093,electronics,71.23,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,118.165.108.156,1,velocity
+txn_0427,2026-01-06 14:55:46,card_0008,user_0008,merchant_0060,travel,62.52,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,174.214.233.77,0,none
+txn_0454,2026-01-02 23:57:12,card_0004,user_0004,merchant_0143,retail,90.83,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,224.3.98.43,0,none
+txn_0020,2026-01-04 01:26:00,card_0008,user_0008,merchant_0003,electronics,37.12,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,16.220.219.233,0,none
+txn_0206,2026-01-04 09:47:07,card_0006,user_0006,merchant_0028,electronics,122.75,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,93.88.156.25,0,none
+txn_0667,2026-01-04 16:21:48,card_0003,user_0003,merchant_0018,pharmacy,108.88,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,243.194.163.106,0,none
+txn_0208,2026-01-04 17:24:59,card_0004,user_0004,merchant_0182,retail,135.27,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,18.157.49.124,0,none
+txn_0871,2026-01-01 07:04:28,card_0002,user_0002,merchant_0177,electronics,136.58,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,192.47.14.129,0,none
+txn_0036,2026-01-01 12:31:12,card_0002,user_0002,merchant_0028,electronics,82.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,56.25.135.48,0,none
+txn_0604,2026-01-01 00:24:38,card_0005,user_0005,merchant_0157,gas,100.77,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,56.111.15.148,0,none
+txn_0864,2026-01-02 06:55:14,card_0008,user_0008,merchant_0181,travel,1.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,115.227.81.203,0,none
+txn_0622,2026-01-01 22:32:10,card_0002,user_0002,merchant_0007,restaurant,157.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,9.27.187.32,0,none
+txn_0671,2026-01-01 22:42:09,card_0001,user_0001,merchant_0190,retail,36.73,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,7.140.110.210,0,none
+txn_0029,2026-01-06 23:34:48,card_0001,user_0001,merchant_0082,retail,90.05,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,123.100.225.67,0,none
+txn_0785,2026-01-04 23:37:38,card_0003,user_0003,merchant_0061,entertainment,127.67,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,63.167.56.122,0,none
+txn_0591,2026-01-03 19:44:54,card_0009,user_0009,merchant_0143,electronics,81.23,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,255.153.175.35,0,none
+txn_0435,2026-01-04 20:23:52,card_0000,user_0000,merchant_0096,gas,228.36,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,20.21.11.247,0,none
+txn_0828,2026-01-02 06:58:06,card_0009,user_0009,merchant_0168,electronics,123.99,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,216.45.110.195,0,none
+txn_1029,2026-01-06 16:04:10,card_0002,user_0002,merchant_0025,restaurant,60.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,207.166.69.176,1,velocity
+txn_1038,2026-01-04 02:59:39,card_0009,user_0009,merchant_0021,gas,70.23,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,210.171.116.41,1,velocity
+txn_0550,2026-01-06 09:50:43,card_0002,user_0002,merchant_0164,restaurant,184.65,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,36.18.107.12,0,none
+txn_0955,2026-01-06 10:21:49,card_0006,user_0006,merchant_0186,retail,141.42,USD,card_present,purchase,Miami,FL,US,25.7617,-80.1918,device_0006,202.201.129.51,1,geo
+txn_0094,2026-01-01 12:43:24,card_0007,user_0007,merchant_0192,restaurant,114.24,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,152.201.118.31,0,none
+txn_0595,2026-01-05 21:58:36,card_0003,user_0003,merchant_0080,travel,182.09,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,21.93.41.172,0,none
+txn_0791,2026-01-05 10:22:51,card_0006,user_0006,merchant_0010,electronics,94.6,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,1.190.129.75,0,none
+txn_0717,2026-01-03 20:47:51,card_0004,user_0004,merchant_0173,retail,120.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,11.98.3.197,0,none
+txn_0516,2026-01-03 17:47:52,card_0003,user_0003,merchant_0006,electronics,198.06,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,87.226.240.16,0,none
+txn_0672,2026-01-06 22:49:56,card_0004,user_0004,merchant_0056,grocery,150.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,98.158.164.82,0,none
+txn_0809,2026-01-06 11:09:38,card_0009,user_0009,merchant_0147,electronics,54.8,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,31.111.232.186,0,none
+txn_0816,2026-01-06 23:26:54,card_0004,user_0004,merchant_0167,retail,154.1,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,177.173.115.6,0,none
+txn_0334,2026-01-06 18:24:38,card_0005,user_0005,merchant_0119,entertainment,91.34,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,105.105.214.133,0,none
+txn_0890,2026-01-01 12:35:30,card_0007,user_0007,merchant_0056,pharmacy,19.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,232.241.220.112,0,none
+txn_0782,2026-01-06 18:40:57,card_0009,user_0009,merchant_0136,electronics,35.94,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,85.243.103.109,0,none
+txn_0978,2026-01-01 11:49:06,card_0008,user_0008,merchant_0095,pharmacy,30.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,149.247.70.242,1,merchant
+txn_0291,2026-01-03 03:26:59,card_0000,user_0000,merchant_0105,electronics,156.48,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,205.40.218.176,0,none
+txn_0236,2026-01-06 02:36:33,card_0009,user_0009,merchant_0061,gas,101.37,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,1.192.193.147,0,none
+txn_0587,2026-01-06 21:03:58,card_0008,user_0008,merchant_0126,electronics,78.25,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,113.2.163.187,0,none
+txn_0414,2026-01-03 10:15:22,card_0006,user_0006,merchant_0142,electronics,113.91,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,92.88.96.1,0,none
+txn_0240,2026-01-06 03:34:35,card_0006,user_0006,merchant_0051,retail,76.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,235.183.31.214,0,none
+txn_1002,2026-01-06 22:58:09,card_0003,user_0003,merchant_0200,electronics,81.64,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,226.153.191.120,1,velocity
+txn_0026,2026-01-06 15:23:40,card_0004,user_0004,merchant_0118,pharmacy,109.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,214.16.75.139,0,none
+txn_0087,2026-01-03 05:19:15,card_0001,user_0001,merchant_0034,pharmacy,100.53,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,37.150.214.48,0,none
+txn_0002,2026-01-02 11:29:47,card_0006,user_0006,merchant_0163,retail,158.32,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,150.174.48.37,0,none
+txn_0103,2026-01-02 22:56:00,card_0002,user_0002,merchant_0033,electronics,168.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,41.240.204.199,0,none
+txn_0524,2026-01-04 10:59:44,card_0007,user_0007,merchant_0085,travel,82.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,192.34.3.165,0,none
+txn_0352,2026-01-04 12:39:09,card_0000,user_0000,merchant_0179,electronics,106.06,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,25.61.167.176,0,none
+txn_0434,2026-01-02 14:29:11,card_0002,user_0002,merchant_0118,restaurant,83.4,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,30.101.155.221,0,none
+txn_0355,2026-01-02 18:07:17,card_0009,user_0009,merchant_0106,gas,144.31,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,78.209.183.59,0,none
+txn_1033,2026-01-03 19:08:44,card_0004,user_0004,merchant_0051,entertainment,201.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,223.22.124.225,1,velocity
+txn_0645,2026-01-04 06:07:02,card_0004,user_0004,merchant_0127,entertainment,140.08,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,199.11.134.252,0,none
+txn_0479,2026-01-06 20:33:14,card_0004,user_0004,merchant_0098,entertainment,22.37,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,130.211.64.208,0,none
+txn_0371,2026-01-05 08:29:13,card_0000,user_0000,merchant_0195,gas,162.92,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,185.169.74.85,0,none
+txn_1052,2026-01-02 03:41:18,card_0005,user_0005,merchant_0168,gas,73.11,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,157.235.179.184,1,velocity
+txn_0562,2026-01-02 22:49:10,card_0004,user_0004,merchant_0018,entertainment,186.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,204.101.66.183,0,none
+txn_0126,2026-01-02 12:57:08,card_0009,user_0009,merchant_0095,gas,106.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,106.87.65.22,0,none
+txn_0919,2026-01-02 03:44:45,card_0003,user_0003,merchant_0098,electronics,173.15,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,192.179.196.162,0,none
+txn_0117,2026-01-01 23:51:09,card_0008,user_0008,merchant_0055,gas,31.3,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,167.230.174.205,0,none
+txn_0145,2026-01-03 17:22:18,card_0002,user_0002,merchant_0109,electronics,91.37,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,87.201.42.240,0,none
+txn_0116,2026-01-02 08:18:36,card_0005,user_0005,merchant_0042,entertainment,65.47,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,152.128.10.193,0,none
+txn_0698,2026-01-02 07:47:49,card_0009,user_0009,merchant_0142,electronics,85.27,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,131.69.150.150,0,none
+txn_0274,2026-01-04 05:19:31,card_0001,user_0001,merchant_0036,retail,44.41,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,96.102.252.148,0,none
+txn_0994,2026-01-06 13:05:54,card_0006,user_0006,merchant_0066,electronics,93.3,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,143.43.207.6,1,velocity
+txn_1021,2026-01-05 04:25:26,card_0007,user_0007,merchant_0136,electronics,76.3,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,137.134.124.123,1,velocity
+txn_0525,2026-01-02 20:37:12,card_0005,user_0005,merchant_0061,gas,106.45,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,165.97.96.110,0,none
+txn_0011,2026-01-02 13:50:46,card_0007,user_0007,merchant_0145,restaurant,47.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,29.41.227.206,0,none
+txn_0521,2026-01-06 04:12:27,card_0005,user_0005,merchant_0073,entertainment,130.03,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,173.183.119.215,0,none
+txn_0421,2026-01-01 02:29:50,card_0003,user_0003,merchant_0035,pharmacy,205.95,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,184.212.124.11,0,none
+txn_1040,2026-01-04 03:02:57,card_0009,user_0009,merchant_0191,gas,108.49,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,5.6.219.77,1,velocity
+txn_0019,2026-01-05 11:04:47,card_0001,user_0001,merchant_0175,travel,49.8,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,12.82.214.248,0,none
+txn_0730,2026-01-02 14:53:23,card_0008,user_0008,merchant_0100,travel,30.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,141.104.69.138,0,none
+txn_0757,2026-01-06 00:21:43,card_0002,user_0002,merchant_0089,electronics,90.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,183.127.211.152,0,none
+txn_0303,2026-01-04 04:30:35,card_0009,user_0009,merchant_0008,gas,113.33,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,254.29.56.178,0,none
+txn_0033,2026-01-05 02:35:04,card_0009,user_0009,merchant_0037,gas,101.3,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,22.7.127.42,0,none
+txn_0175,2026-01-05 12:36:33,card_0003,user_0003,merchant_0167,travel,170.93,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,26.236.191.95,0,none
+txn_0765,2026-01-04 00:24:30,card_0004,user_0004,merchant_0102,entertainment,1.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,215.103.202.248,0,none
+txn_0973,2026-01-02 06:36:49,card_0000,user_0000,merchant_0182,restaurant,152.77,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,187.46.80.95,1,merchant
+txn_0494,2026-01-03 20:31:08,card_0001,user_0001,merchant_0084,retail,63.88,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,232.109.30.77,0,none
+txn_0070,2026-01-05 08:39:22,card_0003,user_0003,merchant_0020,electronics,171.04,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,237.86.111.254,0,none
+txn_0090,2026-01-03 16:45:41,card_0005,user_0005,merchant_0102,entertainment,63.16,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,177.185.99.148,0,none
+txn_0943,2026-01-02 00:24:05,card_0000,user_0000,merchant_0070,gas,197.1,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0000,246.171.218.107,1,geo
+txn_0028,2026-01-04 09:41:59,card_0003,user_0003,merchant_0170,pharmacy,64.83,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,55.133.90.155,0,none
+txn_0095,2026-01-04 14:40:30,card_0003,user_0003,merchant_0080,pharmacy,181.2,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,211.91.107.19,0,none
+txn_0502,2026-01-06 14:59:59,card_0001,user_0001,merchant_0139,retail,83.57,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,224.184.126.167,0,none
+txn_0777,2026-01-02 08:35:04,card_0000,user_0000,merchant_0167,electronics,249.52,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,23.39.223.194,0,none
+txn_0904,2026-01-04 09:15:16,card_0003,user_0003,merchant_0113,electronics,179.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,245.16.141.157,0,none
+txn_0430,2026-01-01 13:13:11,card_0009,user_0009,merchant_0045,electronics,125.56,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,229.163.215.152,0,none
+txn_0558,2026-01-02 15:04:12,card_0005,user_0005,merchant_0132,restaurant,51.36,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,89.81.74.38,0,none
+txn_0779,2026-01-02 18:17:57,card_0005,user_0005,merchant_0045,entertainment,54.36,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,163.172.132.234,0,none
+txn_0797,2026-01-04 07:32:09,card_0003,user_0003,merchant_0019,pharmacy,110.34,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,47.202.7.132,0,none
+txn_0966,2026-01-01 22:43:10,card_0005,user_0005,merchant_0180,pharmacy,74.16,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,66.49.211.158,1,merchant
+txn_0921,2026-01-05 00:08:28,card_0005,user_0005,merchant_0054,gas,721.71,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,118.105.7.98,1,amount
+txn_0027,2026-01-02 13:44:35,card_0009,user_0009,merchant_0056,electronics,66.69,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,78.205.2.103,0,none
+txn_0348,2026-01-02 17:35:05,card_0005,user_0005,merchant_0048,restaurant,60.09,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,142.149.176.190,0,none
+txn_0739,2026-01-03 13:10:49,card_0008,user_0008,merchant_0080,electronics,72.57,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,205.195.147.151,0,none
+txn_0768,2026-01-01 02:26:23,card_0009,user_0009,merchant_0040,electronics,55.25,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,148.123.82.138,0,none
+txn_0998,2026-01-04 04:12:15,card_0003,user_0003,merchant_0054,electronics,88.27,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,242.195.87.123,1,velocity
+txn_0132,2026-01-04 13:48:12,card_0002,user_0002,merchant_0008,restaurant,78.65,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,50.92.211.239,0,none
+txn_0320,2026-01-02 09:16:57,card_0004,user_0004,merchant_0133,retail,178.0,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,61.239.198.230,0,none
+txn_0309,2026-01-03 20:45:59,card_0007,user_0007,merchant_0125,pharmacy,50.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,62.37.56.209,0,none
+txn_0628,2026-01-05 05:57:12,card_0009,user_0009,merchant_0097,electronics,76.87,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,167.32.65.186,0,none
+txn_0198,2026-01-06 14:24:49,card_0000,user_0000,merchant_0035,retail,243.21,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,213.60.255.89,0,none
+txn_0238,2026-01-01 05:19:59,card_0001,user_0001,merchant_0194,travel,26.81,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,84.142.42.141,0,none
+txn_0519,2026-01-04 11:13:49,card_0008,user_0008,merchant_0017,gas,56.49,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,89.113.158.167,0,none
+txn_0054,2026-01-01 23:31:18,card_0003,user_0003,merchant_0126,electronics,144.8,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,226.74.201.188,0,none
+txn_0294,2026-01-05 02:27:04,card_0003,user_0003,merchant_0148,entertainment,126.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,90.204.255.136,0,none
+txn_0428,2026-01-01 19:11:29,card_0008,user_0008,merchant_0200,electronics,53.28,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,113.78.96.39,0,none
+txn_0750,2026-01-05 09:13:18,card_0009,user_0009,merchant_0018,gas,88.22,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,47.114.23.167,0,none
+txn_0013,2026-01-05 23:41:56,card_0001,user_0001,merchant_0073,travel,44.54,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,180.84.96.61,0,none
+txn_0583,2026-01-05 02:17:50,card_0001,user_0001,merchant_0161,retail,87.58,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,96.105.51.228,0,none
+txn_0574,2026-01-02 00:11:40,card_0009,user_0009,merchant_0065,gas,121.0,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,123.192.177.245,0,none
+txn_0394,2026-01-01 16:32:43,card_0008,user_0008,merchant_0073,travel,64.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,153.48.180.155,0,none
+txn_0393,2026-01-02 03:44:29,card_0009,user_0009,merchant_0016,electronics,98.28,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,48.253.208.54,0,none
+txn_1022,2026-01-04 17:37:40,card_0000,user_0000,merchant_0127,electronics,141.94,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,251.46.159.186,1,velocity
+txn_0075,2026-01-06 23:38:09,card_0007,user_0007,merchant_0010,pharmacy,18.27,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,216.178.117.54,0,none
+txn_0787,2026-01-02 16:40:25,card_0007,user_0007,merchant_0069,travel,64.12,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,3.166.121.25,0,none
+txn_0040,2026-01-05 17:15:27,card_0001,user_0001,merchant_0044,pharmacy,103.56,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,34.24.143.154,0,none
+txn_0232,2026-01-02 19:49:43,card_0003,user_0003,merchant_0073,pharmacy,157.73,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,102.250.162.151,0,none
+txn_0256,2026-01-01 09:35:01,card_0000,user_0000,merchant_0025,retail,183.88,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,226.203.2.233,0,none
+txn_0960,2026-01-05 10:45:28,card_0003,user_0003,merchant_0116,grocery,175.95,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,6.119.198.166,1,merchant
+txn_0045,2026-01-04 06:38:12,card_0004,user_0004,merchant_0121,pharmacy,160.58,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,48.211.217.8,0,none
+txn_0501,2026-01-04 23:49:15,card_0005,user_0005,merchant_0199,gas,57.02,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,111.137.145.198,0,none
+txn_0181,2026-01-02 23:09:25,card_0007,user_0007,merchant_0089,pharmacy,92.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,184.71.252.145,0,none
+txn_0384,2026-01-03 06:17:13,card_0003,user_0003,merchant_0099,pharmacy,121.18,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,252.168.55.176,0,none
+txn_0666,2026-01-03 12:12:40,card_0007,user_0007,merchant_0083,travel,98.85,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,163.14.196.17,0,none
+txn_0897,2026-01-06 18:21:42,card_0006,user_0006,merchant_0066,entertainment,107.14,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,170.113.17.199,0,none
+txn_0400,2026-01-03 03:43:01,card_0003,user_0003,merchant_0019,travel,106.74,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,224.174.167.74,0,none
+txn_0755,2026-01-03 01:04:32,card_0002,user_0002,merchant_0089,electronics,115.33,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,161.112.170.213,0,none
+txn_0656,2026-01-02 19:30:34,card_0006,user_0006,merchant_0123,entertainment,132.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,172.244.88.161,0,none
+txn_0876,2026-01-03 21:22:10,card_0001,user_0001,merchant_0149,retail,24.59,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,123.204.55.73,0,none
+txn_0022,2026-01-04 08:41:27,card_0003,user_0003,merchant_0026,electronics,152.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,20.214.230.79,0,none
+txn_0901,2026-01-04 20:49:10,card_0009,user_0009,merchant_0089,gas,141.74,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,243.146.105.40,0,none
+txn_0463,2026-01-01 22:24:28,card_0009,user_0009,merchant_0005,electronics,85.55,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,164.58.105.122,0,none
+txn_0244,2026-01-04 16:11:14,card_0000,user_0000,merchant_0065,retail,158.24,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,117.213.35.171,0,none
+txn_1043,2026-01-04 03:45:22,card_0009,user_0009,merchant_0055,electronics,137.05,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,63.159.191.254,1,velocity
+txn_0561,2026-01-02 17:29:36,card_0002,user_0002,merchant_0062,electronics,75.19,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,80.160.5.199,0,none
+txn_0080,2026-01-03 10:42:42,card_0003,user_0003,merchant_0084,pharmacy,186.45,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,183.116.44.55,0,none
+txn_0474,2026-01-06 15:00:21,card_0006,user_0006,merchant_0180,electronics,51.95,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,157.206.43.114,0,none
+txn_0865,2026-01-06 18:47:46,card_0000,user_0000,merchant_0174,retail,221.64,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,62.158.105.168,0,none
+txn_0444,2026-01-03 17:12:05,card_0004,user_0004,merchant_0122,retail,145.03,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,131.220.135.69,0,none
+txn_0843,2026-01-03 13:37:25,card_0006,user_0006,merchant_0123,retail,73.59,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,253.214.253.188,0,none
+txn_0798,2026-01-01 14:01:00,card_0006,user_0006,merchant_0076,entertainment,108.38,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,172.123.32.36,0,none
+txn_0541,2026-01-06 01:35:04,card_0008,user_0008,merchant_0004,travel,85.77,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,48.250.166.130,0,none
+txn_0239,2026-01-02 01:16:00,card_0007,user_0007,merchant_0112,electronics,87.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,124.13.146.170,0,none
+txn_0295,2026-01-03 21:06:54,card_0002,user_0002,merchant_0154,electronics,155.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,100.222.203.244,0,none
+txn_0819,2026-01-02 12:47:48,card_0006,user_0006,merchant_0044,entertainment,82.34,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,32.120.239.188,0,none
+txn_0971,2026-01-02 20:02:46,card_0004,user_0004,merchant_0173,restaurant,180.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,164.212.55.90,1,merchant
+txn_0221,2026-01-06 02:04:57,card_0008,user_0008,merchant_0066,electronics,58.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,141.23.122.102,0,none
+txn_0844,2026-01-02 04:31:52,card_0003,user_0003,merchant_0178,pharmacy,108.08,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,139.157.212.88,0,none
+txn_0477,2026-01-02 13:53:30,card_0005,user_0005,merchant_0168,gas,91.25,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,135.173.79.126,0,none
+txn_0319,2026-01-01 04:46:27,card_0009,user_0009,merchant_0048,gas,110.83,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,2.162.157.35,0,none
+txn_0437,2026-01-03 04:51:20,card_0000,user_0000,merchant_0047,gas,114.41,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,14.96.21.200,0,none
+txn_0878,2026-01-06 01:54:53,card_0003,user_0003,merchant_0184,travel,214.66,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,127.65.151.29,0,none
+txn_0243,2026-01-06 14:11:04,card_0007,user_0007,merchant_0122,pharmacy,44.77,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,97.47.227.20,0,none
+txn_0265,2026-01-05 07:59:53,card_0008,user_0008,merchant_0025,gas,24.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,30.160.79.162,0,none
+txn_0778,2026-01-05 21:51:05,card_0006,user_0006,merchant_0150,electronics,119.47,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,100.247.229.7,0,none
+txn_0988,2026-01-01 05:34:00,card_0008,user_0008,merchant_0186,electronics,24.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,59.113.35.209,1,velocity
+txn_0853,2026-01-02 07:55:18,card_0004,user_0004,merchant_0044,grocery,82.93,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,225.147.3.204,0,none
+txn_0049,2026-01-02 22:12:31,card_0000,user_0000,merchant_0078,gas,10.77,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,238.198.229.93,0,none
+txn_0602,2026-01-02 02:46:05,card_0005,user_0005,merchant_0007,gas,107.94,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,107.154.200.180,0,none
+txn_0349,2026-01-04 17:37:17,card_0001,user_0001,merchant_0138,travel,95.07,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,11.196.158.176,0,none
+txn_0056,2026-01-04 19:13:10,card_0005,user_0005,merchant_0019,entertainment,86.1,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,222.189.60.187,0,none
+txn_0326,2026-01-01 03:25:27,card_0004,user_0004,merchant_0194,retail,4.57,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,31.82.219.138,0,none
+txn_0767,2026-01-05 01:46:45,card_0000,user_0000,merchant_0009,gas,177.85,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,65.21.43.63,0,none
+txn_0528,2026-01-05 07:48:56,card_0003,user_0003,merchant_0110,entertainment,180.64,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,58.222.127.69,0,none
+txn_0856,2026-01-02 16:13:44,card_0005,user_0005,merchant_0097,restaurant,76.48,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,202.200.117.185,0,none
+txn_0347,2026-01-06 11:35:14,card_0005,user_0005,merchant_0038,gas,70.04,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,155.172.130.90,0,none
+txn_0024,2026-01-06 17:28:08,card_0006,user_0006,merchant_0088,entertainment,79.29,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,72.7.199.238,0,none
+txn_1012,2026-01-03 07:42:39,card_0001,user_0001,merchant_0151,retail,71.77,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,127.60.225.98,1,velocity
+txn_0884,2026-01-04 04:27:30,card_0009,user_0009,merchant_0149,gas,121.27,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,115.247.8.102,0,none
+txn_0373,2026-01-02 04:03:42,card_0007,user_0007,merchant_0013,electronics,95.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,208.94.148.230,0,none
+txn_0104,2026-01-06 06:48:45,card_0005,user_0005,merchant_0074,entertainment,96.4,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,164.4.100.164,0,none
+txn_0534,2026-01-02 20:36:35,card_0009,user_0009,merchant_0082,gas,1.0,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,212.141.211.175,0,none
+txn_0420,2026-01-03 02:15:05,card_0000,user_0000,merchant_0008,gas,189.84,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,236.14.254.175,0,none
+txn_0120,2026-01-02 13:38:40,card_0002,user_0002,merchant_0177,restaurant,52.77,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,175.151.214.33,0,none
+txn_0721,2026-01-04 02:11:25,card_0004,user_0004,merchant_0032,grocery,166.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,14.31.24.8,0,none
+txn_0064,2026-01-01 12:24:40,card_0001,user_0001,merchant_0043,travel,101.0,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,212.143.28.152,0,none
+txn_0590,2026-01-01 15:35:03,card_0004,user_0004,merchant_0156,grocery,168.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,109.76.145.213,0,none
+txn_0605,2026-01-04 23:19:03,card_0001,user_0001,merchant_0092,travel,80.64,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,113.221.97.7,0,none
+txn_0772,2026-01-05 07:27:31,card_0009,user_0009,merchant_0083,gas,108.3,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,201.43.154.143,0,none
+txn_0185,2026-01-02 00:11:08,card_0002,user_0002,merchant_0126,electronics,98.42,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,174.252.43.136,0,none
+txn_0654,2026-01-04 16:57:43,card_0003,user_0003,merchant_0124,electronics,153.44,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,76.151.62.167,0,none
+txn_0062,2026-01-06 11:19:03,card_0001,user_0001,merchant_0112,pharmacy,48.41,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,109.167.32.232,0,none
+txn_0959,2026-01-01 19:41:16,card_0009,user_0009,merchant_0060,gas,40.44,USD,card_present,purchase,Dallas,TX,US,32.7767,-96.797,device_0009,252.125.103.224,1,geo
+txn_0513,2026-01-05 05:49:40,card_0003,user_0003,merchant_0030,pharmacy,132.58,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,230.188.46.17,0,none
+txn_0703,2026-01-06 01:07:48,card_0003,user_0003,merchant_0115,entertainment,197.22,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,38.109.94.218,0,none
+txn_0222,2026-01-05 10:34:51,card_0005,user_0005,merchant_0059,restaurant,57.08,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,243.122.116.51,0,none
+txn_0735,2026-01-05 02:52:54,card_0005,user_0005,merchant_0035,entertainment,81.44,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,18.16.34.238,0,none
+txn_0092,2026-01-01 09:07:36,card_0000,user_0000,merchant_0008,electronics,127.87,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,115.114.84.22,0,none
+txn_0283,2026-01-04 18:39:00,card_0002,user_0002,merchant_0065,restaurant,100.87,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,161.33.112.165,0,none
+txn_0967,2026-01-02 15:50:07,card_0003,user_0003,merchant_0065,retail,186.34,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,205.41.178.75,1,merchant
+txn_0039,2026-01-05 00:00:01,card_0008,user_0008,merchant_0031,electronics,72.19,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,209.134.72.208,0,none
+txn_0962,2026-01-02 01:07:20,card_0001,user_0001,merchant_0089,electronics,68.41,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,104.129.15.145,1,merchant
+txn_0119,2026-01-03 20:53:49,card_0000,user_0000,merchant_0013,retail,177.72,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,23.41.119.134,0,none
+txn_0972,2026-01-04 17:02:51,card_0006,user_0006,merchant_0126,restaurant,175.11,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,22.93.180.86,1,merchant
+txn_0552,2026-01-02 08:44:10,card_0008,user_0008,merchant_0016,gas,95.33,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,235.107.230.147,0,none
+txn_0007,2026-01-02 13:10:38,card_0006,user_0006,merchant_0148,entertainment,34.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,64.20.254.11,0,none
+txn_0316,2026-01-03 02:26:59,card_0007,user_0007,merchant_0155,pharmacy,82.39,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,178.79.137.75,0,none
+txn_0686,2026-01-03 03:03:13,card_0006,user_0006,merchant_0198,electronics,96.48,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,94.151.5.26,0,none
+txn_0789,2026-01-01 22:24:28,card_0001,user_0001,merchant_0199,retail,30.94,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,134.194.144.118,0,none
+txn_0042,2026-01-01 23:12:08,card_0005,user_0005,merchant_0180,gas,21.27,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,204.207.153.210,0,none
+txn_0951,2026-01-02 10:22:02,card_0001,user_0001,merchant_0002,travel,60.86,USD,online,purchase,Seattle,WA,US,47.6062,-122.3321,device_0001,26.137.151.45,1,geo
+txn_0722,2026-01-06 20:44:15,card_0005,user_0005,merchant_0192,gas,74.24,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,148.185.60.239,0,none
+txn_0566,2026-01-03 19:52:49,card_0008,user_0008,merchant_0101,travel,37.93,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,55.49.181.80,0,none
+txn_0077,2026-01-06 22:00:53,card_0000,user_0000,merchant_0199,retail,100.39,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,58.169.162.11,0,none
+txn_0190,2026-01-05 04:49:32,card_0002,user_0002,merchant_0195,electronics,77.04,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,156.81.62.50,0,none
+txn_0258,2026-01-03 11:50:44,card_0008,user_0008,merchant_0145,electronics,50.22,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,66.62.232.236,0,none
+txn_0784,2026-01-04 01:38:38,card_0001,user_0001,merchant_0133,pharmacy,59.77,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,184.224.215.149,0,none
+txn_0152,2026-01-05 15:45:06,card_0007,user_0007,merchant_0169,travel,86.68,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,65.139.72.86,0,none
+txn_0657,2026-01-03 16:53:37,card_0009,user_0009,merchant_0046,gas,103.02,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,6.33.16.196,0,none
+txn_0128,2026-01-04 16:50:40,card_0005,user_0005,merchant_0158,entertainment,73.81,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,155.46.100.72,0,none
+txn_0122,2026-01-04 19:01:08,card_0009,user_0009,merchant_0032,electronics,94.58,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,11.247.117.199,0,none
+txn_0533,2026-01-06 16:12:50,card_0003,user_0003,merchant_0069,electronics,290.48,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,44.13.189.185,0,none
+txn_0702,2026-01-04 20:20:12,card_0004,user_0004,merchant_0057,retail,133.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,221.239.126.54,0,none
+txn_0867,2026-01-05 13:11:48,card_0008,user_0008,merchant_0098,electronics,51.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,211.219.120.240,0,none
+txn_0647,2026-01-06 02:21:47,card_0007,user_0007,merchant_0047,restaurant,65.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,158.149.25.211,0,none
+txn_0252,2026-01-04 23:29:20,card_0004,user_0004,merchant_0037,grocery,151.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,172.240.248.68,0,none
+txn_0071,2026-01-02 15:39:39,card_0008,user_0008,merchant_0155,travel,21.24,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,109.84.79.99,0,none
+txn_0956,2026-01-06 01:52:59,card_0009,user_0009,merchant_0011,electronics,109.84,USD,card_present,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0009,17.123.96.123,1,geo
+txn_0925,2026-01-06 02:41:38,card_0006,user_0006,merchant_0179,electronics,532.95,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,180.207.79.217,1,amount
+txn_0907,2026-01-02 08:26:53,card_0004,user_0004,merchant_0092,pharmacy,115.81,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,198.38.118.181,0,none
+txn_0404,2026-01-04 05:42:16,card_0009,user_0009,merchant_0094,gas,97.9,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,79.225.25.120,0,none
+txn_0545,2026-01-01 07:12:18,card_0009,user_0009,merchant_0029,electronics,34.68,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,3.4.211.156,0,none
+txn_0220,2026-01-02 12:30:35,card_0003,user_0003,merchant_0109,entertainment,53.82,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,220.220.41.234,0,none
+txn_0715,2026-01-02 01:09:05,card_0006,user_0006,merchant_0017,electronics,93.38,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,105.12.174.175,0,none
+txn_0926,2026-01-01 08:45:22,card_0004,user_0004,merchant_0117,pharmacy,1567.34,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,203.211.208.107,1,amount
+txn_0308,2026-01-04 02:06:06,card_0006,user_0006,merchant_0108,electronics,109.06,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,26.78.143.132,0,none
+txn_0290,2026-01-01 01:18:26,card_0007,user_0007,merchant_0151,pharmacy,34.92,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,171.203.142.234,0,none
+txn_0675,2026-01-06 23:18:09,card_0004,user_0004,merchant_0136,entertainment,104.44,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,130.64.161.190,0,none
+txn_0793,2026-01-02 14:50:32,card_0000,user_0000,merchant_0009,retail,149.7,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,238.183.23.25,0,none
+txn_0927,2026-01-02 19:10:44,card_0007,user_0007,merchant_0134,travel,631.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,141.240.167.54,1,amount
+txn_0424,2026-01-06 08:17:29,card_0004,user_0004,merchant_0050,retail,195.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,13.187.251.9,0,none
+txn_0004,2026-01-03 09:35:18,card_0004,user_0004,merchant_0104,pharmacy,216.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,136.104.39.115,0,none
+txn_0573,2026-01-03 11:02:46,card_0008,user_0008,merchant_0013,gas,101.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,144.116.155.76,0,none
+txn_0888,2026-01-02 19:24:06,card_0004,user_0004,merchant_0082,pharmacy,163.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,179.135.130.235,0,none
+txn_0752,2026-01-01 15:39:44,card_0002,user_0002,merchant_0119,electronics,82.57,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,246.110.82.119,0,none
+txn_0409,2026-01-02 02:35:21,card_0001,user_0001,merchant_0092,retail,68.95,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,51.76.36.51,0,none
+txn_0261,2026-01-01 00:31:37,card_0002,user_0002,merchant_0027,electronics,47.98,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,19.225.187.12,0,none
+txn_0177,2026-01-06 01:57:06,card_0002,user_0002,merchant_0172,restaurant,146.75,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,153.236.206.106,0,none
+txn_1057,2026-01-01 06:31:20,card_0002,user_0002,merchant_0040,electronics,148.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,162.184.236.208,1,velocity
+txn_0895,2026-01-02 03:32:46,card_0006,user_0006,merchant_0088,retail,124.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,188.46.11.231,0,none
+txn_0683,2026-01-05 22:41:54,card_0007,user_0007,merchant_0060,restaurant,131.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,212.51.214.73,0,none
+txn_0792,2026-01-06 02:22:30,card_0005,user_0005,merchant_0193,entertainment,146.58,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,55.194.217.34,0,none
+txn_0053,2026-01-04 11:05:42,card_0006,user_0006,merchant_0021,electronics,133.74,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,69.198.129.50,0,none
+txn_0987,2026-01-01 05:30:08,card_0008,user_0008,merchant_0102,electronics,56.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,96.176.10.140,1,velocity
+txn_0881,2026-01-03 22:39:15,card_0002,user_0002,merchant_0028,electronics,169.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,166.115.239.44,0,none
+txn_0301,2026-01-05 18:03:32,card_0001,user_0001,merchant_0143,pharmacy,130.48,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,119.91.19.255,0,none
+txn_0788,2026-01-02 04:25:28,card_0005,user_0005,merchant_0187,restaurant,49.61,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,100.164.144.63,0,none
+txn_0930,2026-01-01 18:04:44,card_0005,user_0005,merchant_0179,gas,863.96,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,6.142.8.89,1,amount
+txn_0163,2026-01-01 17:22:55,card_0009,user_0009,merchant_0172,gas,47.35,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,5.3.189.192,0,none
+txn_0773,2026-01-04 14:33:45,card_0002,user_0002,merchant_0158,restaurant,124.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,237.129.67.236,0,none
+txn_0531,2026-01-03 02:28:56,card_0000,user_0000,merchant_0060,retail,235.46,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,208.202.172.12,0,none
+txn_0337,2026-01-06 05:04:44,card_0006,user_0006,merchant_0028,retail,131.35,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,55.218.116.13,0,none
+txn_0629,2026-01-05 14:53:18,card_0003,user_0003,merchant_0150,pharmacy,185.02,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,244.121.134.183,0,none
+txn_0088,2026-01-06 07:22:16,card_0005,user_0005,merchant_0156,entertainment,40.35,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,255.124.73.70,0,none
+txn_0124,2026-01-01 18:06:17,card_0009,user_0009,merchant_0060,gas,94.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,98.50.88.19,0,none
+txn_0170,2026-01-01 22:02:18,card_0001,user_0001,merchant_0145,pharmacy,37.46,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,84.31.147.153,0,none
+txn_0676,2026-01-06 01:47:04,card_0009,user_0009,merchant_0111,gas,78.29,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,254.110.200.164,0,none
+txn_0488,2026-01-03 11:07:01,card_0009,user_0009,merchant_0195,gas,89.18,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,121.62.72.133,0,none
+txn_0990,2026-01-02 23:40:42,card_0003,user_0003,merchant_0094,pharmacy,104.51,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,238.106.87.144,1,velocity
+txn_0923,2026-01-05 20:02:43,card_0002,user_0002,merchant_0166,electronics,1057.41,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,189.215.175.91,1,amount
+txn_0229,2026-01-03 03:53:37,card_0003,user_0003,merchant_0058,pharmacy,172.74,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,227.226.2.64,0,none
+txn_0140,2026-01-01 04:56:21,card_0002,user_0002,merchant_0058,restaurant,24.1,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,255.48.250.218,0,none
+txn_0771,2026-01-06 16:16:18,card_0009,user_0009,merchant_0135,electronics,91.26,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,145.21.229.232,0,none
+txn_0158,2026-01-03 05:51:31,card_0001,user_0001,merchant_0052,pharmacy,56.66,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,201.81.164.17,0,none
+txn_0619,2026-01-04 14:11:04,card_0004,user_0004,merchant_0036,entertainment,164.43,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,207.234.38.64,0,none
+txn_0429,2026-01-01 11:13:16,card_0004,user_0004,merchant_0197,pharmacy,125.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,73.249.216.51,0,none
+txn_0108,2026-01-06 19:26:40,card_0005,user_0005,merchant_0053,entertainment,114.24,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,26.77.201.134,0,none
+txn_0621,2026-01-06 00:31:16,card_0005,user_0005,merchant_0034,entertainment,71.13,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,10.46.92.30,0,none
+txn_1025,2026-01-04 17:37:03,card_0000,user_0000,merchant_0035,retail,92.31,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,40.190.24.200,1,velocity
+txn_0679,2026-01-03 15:40:22,card_0006,user_0006,merchant_0022,retail,53.1,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,84.51.46.176,0,none
+txn_1014,2026-01-04 04:39:47,card_0007,user_0007,merchant_0081,pharmacy,124.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,255.50.76.169,1,velocity
+txn_0237,2026-01-03 16:15:19,card_0007,user_0007,merchant_0148,travel,81.48,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,61.250.121.140,0,none
+txn_0812,2026-01-03 13:14:40,card_0001,user_0001,merchant_0140,retail,53.77,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,181.6.116.192,0,none
+txn_0251,2026-01-06 03:02:56,card_0003,user_0003,merchant_0037,entertainment,119.5,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,104.26.40.55,0,none
+txn_0160,2026-01-01 23:26:51,card_0003,user_0003,merchant_0155,pharmacy,32.8,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,17.96.103.112,0,none
+txn_0601,2026-01-02 02:32:38,card_0005,user_0005,merchant_0117,gas,82.09,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,141.176.179.230,0,none
+txn_0555,2026-01-05 09:41:05,card_0003,user_0003,merchant_0087,pharmacy,208.89,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,239.172.89.105,0,none
+txn_0067,2026-01-06 02:42:35,card_0005,user_0005,merchant_0115,restaurant,98.22,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,90.72.177.149,0,none
+txn_0057,2026-01-01 21:19:17,card_0002,user_0002,merchant_0183,electronics,129.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,15.47.182.165,0,none
+txn_0365,2026-01-04 17:29:26,card_0000,user_0000,merchant_0090,gas,136.21,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,46.195.81.12,0,none
+txn_0332,2026-01-01 04:36:43,card_0004,user_0004,merchant_0155,retail,285.99,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,175.221.7.80,0,none
+txn_0969,2026-01-02 01:16:07,card_0007,user_0007,merchant_0160,gas,126.63,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,227.36.167.74,1,merchant
+txn_0585,2026-01-02 03:33:45,card_0007,user_0007,merchant_0108,restaurant,108.57,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,190.129.187.69,0,none
+txn_0889,2026-01-04 11:00:42,card_0004,user_0004,merchant_0109,grocery,2.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,68.132.70.19,0,none
+txn_0159,2026-01-04 09:12:43,card_0002,user_0002,merchant_0026,restaurant,96.46,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,192.209.239.188,0,none
+txn_0804,2026-01-01 15:56:39,card_0008,user_0008,merchant_0188,travel,97.98,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,146.47.220.131,0,none
+txn_0985,2026-01-01 05:31:38,card_0008,user_0008,merchant_0042,travel,74.04,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,205.228.152.15,1,velocity
+txn_0268,2026-01-02 11:10:54,card_0003,user_0003,merchant_0199,travel,178.25,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,84.24.12.76,0,none
+txn_0709,2026-01-06 01:33:15,card_0009,user_0009,merchant_0100,gas,73.4,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,45.221.96.70,0,none
+txn_0281,2026-01-04 05:29:26,card_0001,user_0001,merchant_0127,retail,47.36,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,126.106.35.82,0,none
+txn_0144,2026-01-04 07:56:07,card_0000,user_0000,merchant_0034,gas,160.99,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,100.120.253.10,0,none
+txn_0466,2026-01-04 19:10:26,card_0008,user_0008,merchant_0036,travel,64.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,206.7.116.113,0,none
+txn_0764,2026-01-04 22:47:02,card_0000,user_0000,merchant_0181,electronics,120.12,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,47.192.155.89,0,none
+txn_0109,2026-01-05 02:40:18,card_0005,user_0005,merchant_0004,restaurant,128.61,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,243.51.14.246,0,none
+txn_0649,2026-01-01 16:07:22,card_0009,user_0009,merchant_0035,gas,83.49,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,85.147.81.138,0,none
+txn_0875,2026-01-01 17:34:02,card_0005,user_0005,merchant_0150,restaurant,83.46,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,193.79.122.133,0,none
+txn_0543,2026-01-06 22:55:59,card_0007,user_0007,merchant_0174,travel,92.78,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,178.89.175.231,0,none
+txn_0594,2026-01-02 14:12:25,card_0001,user_0001,merchant_0024,travel,80.48,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,128.90.242.49,0,none
+txn_0217,2026-01-04 12:56:11,card_0000,user_0000,merchant_0140,gas,62.96,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,22.224.60.80,0,none
+txn_0832,2026-01-04 13:48:45,card_0002,user_0002,merchant_0137,restaurant,118.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,81.217.30.72,0,none
+txn_0677,2026-01-05 16:06:38,card_0007,user_0007,merchant_0199,electronics,18.15,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,30.199.251.49,0,none
+txn_0892,2026-01-03 18:31:47,card_0002,user_0002,merchant_0103,restaurant,123.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,253.159.217.53,0,none
+txn_0328,2026-01-05 01:35:11,card_0006,user_0006,merchant_0019,retail,43.86,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,17.73.199.152,0,none
+txn_0523,2026-01-01 09:05:08,card_0000,user_0000,merchant_0084,electronics,137.76,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,91.212.94.215,0,none
+txn_0855,2026-01-06 00:49:04,card_0000,user_0000,merchant_0136,electronics,33.39,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,230.253.157.212,0,none
+txn_0745,2026-01-06 16:35:17,card_0008,user_0008,merchant_0182,gas,29.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,41.190.254.245,0,none
+txn_0712,2026-01-03 13:38:38,card_0001,user_0001,merchant_0159,retail,67.7,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,47.163.44.78,0,none
+txn_0398,2026-01-06 10:39:19,card_0006,user_0006,merchant_0009,electronics,93.22,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,183.159.132.254,0,none
+txn_0451,2026-01-01 00:08:16,card_0000,user_0000,merchant_0179,electronics,233.02,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,177.82.174.242,0,none
+txn_0728,2026-01-01 22:50:03,card_0007,user_0007,merchant_0149,restaurant,106.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,159.15.250.143,0,none
+txn_0284,2026-01-04 19:43:32,card_0009,user_0009,merchant_0044,electronics,87.88,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,3.72.70.95,0,none
+txn_0680,2026-01-01 09:50:41,card_0002,user_0002,merchant_0141,restaurant,149.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,98.236.221.221,0,none
+txn_0670,2026-01-06 01:02:55,card_0008,user_0008,merchant_0081,electronics,40.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,83.98.168.132,0,none
+txn_0958,2026-01-02 08:01:49,card_0005,user_0005,merchant_0175,restaurant,19.61,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0005,85.66.68.117,1,geo
+txn_0940,2026-01-03 01:06:47,card_0008,user_0008,merchant_0195,travel,60.84,USD,card_present,purchase,Seattle,WA,US,47.6062,-122.3321,device_0008,246.85.203.122,1,geo
+txn_0551,2026-01-04 02:53:28,card_0007,user_0007,merchant_0029,restaurant,116.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,4.2.181.15,0,none
+txn_0485,2026-01-03 11:51:15,card_0007,user_0007,merchant_0136,travel,68.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,180.43.120.125,0,none
+txn_0202,2026-01-02 14:23:59,card_0002,user_0002,merchant_0182,restaurant,77.41,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,209.39.70.159,0,none
+txn_0113,2026-01-04 19:59:06,card_0008,user_0008,merchant_0085,electronics,63.08,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,226.7.119.194,0,none
+txn_0017,2026-01-01 23:27:53,card_0008,user_0008,merchant_0190,electronics,101.51,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,64.239.67.193,0,none
+txn_0821,2026-01-06 23:47:23,card_0000,user_0000,merchant_0073,gas,212.93,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,54.121.10.117,0,none
+txn_0242,2026-01-05 05:20:09,card_0003,user_0003,merchant_0141,travel,45.06,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,34.244.85.168,0,none
+txn_0948,2026-01-06 16:55:33,card_0002,user_0002,merchant_0118,electronics,105.73,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0002,52.142.215.216,1,geo
+txn_1044,2026-01-02 19:11:51,card_0007,user_0007,merchant_0176,restaurant,79.46,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,132.168.44.95,1,velocity
+txn_0482,2026-01-03 10:03:48,card_0003,user_0003,merchant_0122,pharmacy,97.66,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,206.184.180.77,0,none
+txn_1009,2026-01-03 07:41:55,card_0001,user_0001,merchant_0200,travel,37.28,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,92.121.36.29,1,velocity
+txn_0137,2026-01-06 19:13:58,card_0006,user_0006,merchant_0102,retail,128.9,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,222.200.182.162,0,none
+txn_0511,2026-01-06 02:08:33,card_0003,user_0003,merchant_0180,entertainment,108.73,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,85.87.108.81,0,none
+txn_0330,2026-01-02 06:33:26,card_0003,user_0003,merchant_0102,entertainment,119.18,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,83.54.159.66,0,none
+txn_0949,2026-01-03 05:20:51,card_0008,user_0008,merchant_0013,gas,57.27,USD,card_present,purchase,Miami,FL,US,25.7617,-80.1918,device_0008,50.14.21.84,1,geo
+txn_0403,2026-01-01 01:32:12,card_0009,user_0009,merchant_0125,electronics,117.02,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,213.94.40.70,0,none
+txn_0359,2026-01-05 06:44:31,card_0003,user_0003,merchant_0197,electronics,156.27,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,90.73.129.125,0,none
+txn_0575,2026-01-06 20:54:01,card_0005,user_0005,merchant_0034,gas,58.06,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,126.219.152.228,0,none
+txn_0416,2026-01-03 00:03:05,card_0003,user_0003,merchant_0095,entertainment,233.42,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,87.198.89.57,0,none
+txn_0743,2026-01-06 04:25:04,card_0005,user_0005,merchant_0009,restaurant,76.37,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,99.40.26.230,0,none
+txn_0753,2026-01-03 15:34:59,card_0009,user_0009,merchant_0144,gas,44.65,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,172.122.217.40,0,none
+txn_0476,2026-01-04 22:12:23,card_0006,user_0006,merchant_0139,electronics,142.42,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,48.48.66.228,0,none
+txn_0727,2026-01-03 11:20:27,card_0009,user_0009,merchant_0170,electronics,91.81,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,57.6.148.67,0,none
+txn_0449,2026-01-04 10:50:34,card_0002,user_0002,merchant_0183,restaurant,163.18,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,196.142.180.74,0,none
+txn_0763,2026-01-05 02:52:24,card_0003,user_0003,merchant_0096,travel,130.81,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,162.236.25.188,0,none
+txn_0839,2026-01-05 07:10:21,card_0001,user_0001,merchant_0078,travel,51.19,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,29.172.75.162,0,none
+txn_0135,2026-01-05 06:52:23,card_0004,user_0004,merchant_0107,grocery,86.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,75.172.186.34,0,none
+txn_0100,2026-01-04 06:40:25,card_0008,user_0008,merchant_0173,electronics,90.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,239.204.31.102,0,none
+txn_0879,2026-01-05 13:50:25,card_0006,user_0006,merchant_0037,electronics,62.96,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,20.93.40.71,0,none
+txn_0836,2026-01-03 12:53:47,card_0003,user_0003,merchant_0102,entertainment,103.67,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,106.252.219.166,0,none
+txn_0530,2026-01-05 10:50:59,card_0006,user_0006,merchant_0006,retail,118.33,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,32.54.166.224,0,none
+txn_0520,2026-01-01 04:16:49,card_0001,user_0001,merchant_0039,travel,83.24,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,14.255.142.3,0,none
+txn_0938,2026-01-06 15:23:54,card_0008,user_0008,merchant_0171,gas,661.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,246.149.147.75,1,amount
+txn_0254,2026-01-02 10:34:58,card_0007,user_0007,merchant_0131,electronics,74.54,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,131.130.104.178,0,none
+txn_1055,2026-01-01 06:29:23,card_0002,user_0002,merchant_0021,restaurant,161.74,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,104.78.172.218,1,velocity
+txn_0850,2026-01-02 06:18:31,card_0005,user_0005,merchant_0027,gas,48.64,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,71.61.209.213,0,none
+txn_0589,2026-01-03 09:45:52,card_0002,user_0002,merchant_0093,restaurant,110.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,131.244.4.134,0,none
+txn_0006,2026-01-01 19:29:14,card_0001,user_0001,merchant_0026,pharmacy,63.42,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,108.16.59.7,0,none
+txn_0091,2026-01-03 09:33:21,card_0006,user_0006,merchant_0157,retail,99.13,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,207.111.156.151,0,none
+txn_0343,2026-01-02 16:12:07,card_0002,user_0002,merchant_0073,electronics,139.41,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,17.148.14.74,0,none
+txn_0458,2026-01-04 06:00:10,card_0002,user_0002,merchant_0042,restaurant,29.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,5.112.152.208,0,none
+txn_0915,2026-01-06 14:38:54,card_0000,user_0000,merchant_0115,electronics,175.62,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,59.207.112.139,0,none
+txn_0659,2026-01-05 20:17:56,card_0006,user_0006,merchant_0018,retail,131.72,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,186.99.131.199,0,none
+txn_0148,2026-01-06 22:47:42,card_0009,user_0009,merchant_0181,gas,83.09,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,133.8.246.156,0,none
+txn_0047,2026-01-06 05:03:42,card_0000,user_0000,merchant_0110,gas,128.04,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,123.61.168.36,0,none
+txn_0714,2026-01-03 12:47:31,card_0002,user_0002,merchant_0127,restaurant,141.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,15.2.57.235,0,none
+txn_0627,2026-01-04 21:30:44,card_0009,user_0009,merchant_0074,gas,117.35,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,97.72.18.106,0,none
+txn_0963,2026-01-05 12:56:40,card_0001,user_0001,merchant_0091,grocery,89.39,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,197.169.95.76,1,merchant
+txn_1020,2026-01-05 04:27:56,card_0007,user_0007,merchant_0033,electronics,66.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,211.24.25.103,1,velocity
+txn_0576,2026-01-02 11:05:27,card_0008,user_0008,merchant_0057,gas,35.35,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,18.180.107.124,0,none
+txn_0200,2026-01-04 11:28:15,card_0006,user_0006,merchant_0034,entertainment,119.24,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,70.174.248.121,0,none
+txn_0460,2026-01-05 18:50:35,card_0007,user_0007,merchant_0153,electronics,53.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,32.81.89.148,0,none
+txn_0032,2026-01-06 06:52:02,card_0007,user_0007,merchant_0169,pharmacy,41.33,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,22.105.28.207,0,none
+txn_0375,2026-01-01 11:13:00,card_0004,user_0004,merchant_0137,retail,187.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,71.85.118.139,0,none
+txn_0806,2026-01-06 13:11:08,card_0009,user_0009,merchant_0143,gas,61.4,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,201.81.135.176,0,none
+txn_0699,2026-01-03 11:02:10,card_0008,user_0008,merchant_0032,gas,79.9,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,109.85.32.172,0,none
+txn_0681,2026-01-03 04:20:22,card_0002,user_0002,merchant_0041,restaurant,96.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,11.238.148.62,0,none
+txn_0172,2026-01-02 04:18:24,card_0000,user_0000,merchant_0040,electronics,139.83,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,246.37.164.30,0,none
+txn_0142,2026-01-06 11:36:21,card_0004,user_0004,merchant_0033,entertainment,198.65,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,129.248.213.252,0,none
+txn_0740,2026-01-04 21:46:16,card_0007,user_0007,merchant_0034,electronics,90.18,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,242.245.248.93,0,none
+txn_0323,2026-01-03 20:19:44,card_0002,user_0002,merchant_0167,restaurant,58.48,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,42.110.118.231,0,none
+txn_0297,2026-01-01 03:54:28,card_0006,user_0006,merchant_0196,electronics,97.39,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,37.181.30.244,0,none
+txn_0165,2026-01-05 20:27:29,card_0006,user_0006,merchant_0171,entertainment,153.76,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,91.202.69.70,0,none
+txn_0481,2026-01-05 04:50:19,card_0007,user_0007,merchant_0098,pharmacy,76.8,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,234.177.13.45,0,none
+txn_0900,2026-01-06 06:57:22,card_0006,user_0006,merchant_0170,retail,145.07,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,65.34.250.27,0,none
+txn_0442,2026-01-05 11:23:46,card_0003,user_0003,merchant_0099,entertainment,135.86,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,198.112.160.89,0,none
+txn_0302,2026-01-02 20:04:06,card_0006,user_0006,merchant_0133,entertainment,5.05,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,219.187.155.48,0,none
+txn_0840,2026-01-01 15:56:58,card_0003,user_0003,merchant_0074,electronics,122.49,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,113.72.225.99,0,none
+txn_0003,2026-01-04 13:06:26,card_0003,user_0003,merchant_0117,travel,215.25,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,127.127.36.147,0,none
+txn_0060,2026-01-01 00:06:16,card_0003,user_0003,merchant_0020,entertainment,161.3,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,147.44.219.236,0,none
+txn_0306,2026-01-01 04:05:36,card_0004,user_0004,merchant_0051,pharmacy,150.3,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,52.114.250.235,0,none
+txn_0445,2026-01-03 22:37:53,card_0008,user_0008,merchant_0200,electronics,57.82,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,153.134.37.33,0,none
+txn_1041,2026-01-04 03:41:36,card_0009,user_0009,merchant_0090,gas,105.46,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,180.139.81.231,1,velocity
+txn_0390,2026-01-01 15:53:51,card_0000,user_0000,merchant_0151,gas,107.32,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,199.157.8.17,0,none
+txn_0136,2026-01-03 10:41:11,card_0006,user_0006,merchant_0009,entertainment,95.53,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,197.109.51.188,0,none
+txn_0746,2026-01-05 21:04:40,card_0004,user_0004,merchant_0084,pharmacy,240.23,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,6.203.37.228,0,none
+txn_0433,2026-01-06 12:37:33,card_0002,user_0002,merchant_0174,electronics,116.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,101.174.204.72,0,none
+txn_0655,2026-01-05 01:40:31,card_0007,user_0007,merchant_0168,restaurant,73.19,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,35.8.244.148,0,none
+txn_1032,2026-01-03 19:05:49,card_0004,user_0004,merchant_0066,entertainment,86.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,145.79.188.7,1,velocity
+txn_0150,2026-01-02 03:41:25,card_0008,user_0008,merchant_0074,travel,104.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,224.116.198.40,0,none
+txn_0569,2026-01-01 02:53:53,card_0005,user_0005,merchant_0052,restaurant,49.14,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,144.208.72.12,0,none
+txn_0415,2026-01-03 12:50:56,card_0002,user_0002,merchant_0081,restaurant,92.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,210.3.23.162,0,none
+txn_1031,2026-01-03 19:05:10,card_0004,user_0004,merchant_0057,grocery,263.8,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,45.162.125.195,1,velocity
+txn_0382,2026-01-05 09:19:07,card_0004,user_0004,merchant_0091,retail,189.7,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,141.194.214.144,0,none
+txn_0305,2026-01-01 17:14:12,card_0001,user_0001,merchant_0196,travel,58.01,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,86.170.88.65,0,none
+txn_0758,2026-01-04 18:39:12,card_0000,user_0000,merchant_0150,retail,160.94,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,97.26.249.90,0,none
+txn_0262,2026-01-04 08:59:13,card_0009,user_0009,merchant_0153,electronics,75.34,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,223.10.74.77,0,none
+txn_1058,2026-01-01 06:33:19,card_0002,user_0002,merchant_0193,restaurant,101.19,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,84.248.248.64,1,velocity
+txn_0121,2026-01-06 14:00:09,card_0007,user_0007,merchant_0066,travel,57.77,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,189.56.204.19,0,none
+txn_0241,2026-01-01 20:50:08,card_0008,user_0008,merchant_0023,electronics,73.01,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,211.27.123.89,0,none
+txn_0824,2026-01-05 12:56:07,card_0002,user_0002,merchant_0173,restaurant,93.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,202.199.130.146,0,none
+txn_0991,2026-01-02 23:44:47,card_0003,user_0003,merchant_0119,entertainment,49.82,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,31.30.254.91,1,velocity
+txn_0353,2026-01-06 13:45:33,card_0009,user_0009,merchant_0013,electronics,106.36,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,32.60.27.10,0,none
+txn_0107,2026-01-05 22:35:31,card_0003,user_0003,merchant_0106,entertainment,225.31,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,158.247.102.174,0,none
+txn_0663,2026-01-03 08:42:05,card_0005,user_0005,merchant_0106,entertainment,52.85,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,34.78.150.67,0,none
+txn_0872,2026-01-06 19:27:10,card_0003,user_0003,merchant_0034,electronics,190.88,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,5.55.156.164,0,none
+txn_0015,2026-01-04 20:16:28,card_0006,user_0006,merchant_0026,electronics,152.59,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,13.7.89.50,0,none
+txn_0917,2026-01-03 12:24:59,card_0009,user_0009,merchant_0119,electronics,101.88,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,49.26.102.138,0,none
+txn_0050,2026-01-04 02:03:01,card_0005,user_0005,merchant_0103,restaurant,106.67,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,155.13.67.161,0,none
+txn_0982,2026-01-02 11:49:38,card_0002,user_0002,merchant_0055,restaurant,107.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,222.55.170.23,1,velocity
+txn_0946,2026-01-03 15:36:25,card_0005,user_0005,merchant_0011,restaurant,59.46,USD,online,purchase,Seattle,WA,US,47.6062,-122.3321,device_0005,160.17.108.1,1,geo
+txn_0105,2026-01-03 19:46:01,card_0000,user_0000,merchant_0044,gas,128.8,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,220.128.61.231,0,none
+txn_0314,2026-01-02 12:07:36,card_0003,user_0003,merchant_0122,entertainment,75.16,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,4.181.94.126,0,none
+txn_0586,2026-01-03 04:31:19,card_0002,user_0002,merchant_0109,restaurant,148.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,216.172.109.224,0,none
+txn_0983,2026-01-02 11:48:00,card_0002,user_0002,merchant_0149,electronics,65.99,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,117.213.226.125,1,velocity
+txn_0179,2026-01-05 23:50:05,card_0002,user_0002,merchant_0105,restaurant,115.86,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,11.153.55.76,0,none
+txn_0883,2026-01-02 22:59:35,card_0007,user_0007,merchant_0036,restaurant,86.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,116.218.172.240,0,none
+txn_0368,2026-01-06 01:24:56,card_0003,user_0003,merchant_0084,electronics,123.98,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,223.71.13.122,0,none
+txn_0737,2026-01-03 04:42:44,card_0003,user_0003,merchant_0093,travel,175.83,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,168.32.142.187,0,none
+txn_0250,2026-01-04 14:02:22,card_0004,user_0004,merchant_0179,entertainment,120.59,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,10.126.33.210,0,none
+txn_1045,2026-01-02 19:11:29,card_0007,user_0007,merchant_0009,travel,93.02,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,120.157.127.34,1,velocity
+txn_0846,2026-01-05 13:41:13,card_0005,user_0005,merchant_0009,entertainment,114.32,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,88.221.252.63,0,none
+txn_0000,2026-01-02 05:21:19,card_0006,user_0006,merchant_0070,entertainment,105.61,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,29.112.212.248,0,none
+txn_0509,2026-01-04 02:01:03,card_0003,user_0003,merchant_0093,electronics,188.06,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,59.113.251.172,0,none
+txn_0687,2026-01-05 02:54:54,card_0000,user_0000,merchant_0104,retail,114.82,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,30.62.206.142,0,none
+txn_0719,2026-01-03 16:50:37,card_0005,user_0005,merchant_0093,entertainment,66.97,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,42.144.139.201,0,none
+txn_0577,2026-01-04 01:19:38,card_0005,user_0005,merchant_0016,gas,103.73,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,221.101.164.120,0,none
+txn_1026,2026-01-06 16:04:06,card_0002,user_0002,merchant_0195,restaurant,111.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,53.38.111.19,1,velocity
+txn_0341,2026-01-04 03:12:18,card_0007,user_0007,merchant_0044,electronics,111.22,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,247.67.240.109,0,none
+txn_0106,2026-01-03 14:03:17,card_0002,user_0002,merchant_0161,electronics,132.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,14.84.49.20,0,none
+txn_0360,2026-01-02 08:35:35,card_0000,user_0000,merchant_0100,electronics,251.18,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,136.105.56.132,0,none
+txn_0392,2026-01-05 02:20:29,card_0002,user_0002,merchant_0019,restaurant,135.95,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,67.10.6.207,0,none
+txn_0660,2026-01-01 09:09:11,card_0004,user_0004,merchant_0200,entertainment,121.08,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,82.50.71.21,0,none
+txn_0233,2026-01-05 00:12:54,card_0000,user_0000,merchant_0095,electronics,132.83,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,81.175.173.158,0,none
+txn_0138,2026-01-04 04:07:04,card_0001,user_0001,merchant_0007,pharmacy,39.63,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,216.127.240.84,0,none
+txn_0440,2026-01-04 21:42:58,card_0008,user_0008,merchant_0118,electronics,50.2,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,173.91.213.73,0,none
+txn_0340,2026-01-04 22:09:10,card_0004,user_0004,merchant_0102,grocery,95.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,138.149.9.184,0,none
+txn_1010,2026-01-03 07:41:17,card_0001,user_0001,merchant_0032,travel,85.01,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,91.46.238.182,1,velocity
+txn_0269,2026-01-05 03:30:57,card_0004,user_0004,merchant_0083,entertainment,81.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,237.241.228.177,0,none
+txn_0061,2026-01-03 17:07:00,card_0006,user_0006,merchant_0023,retail,103.36,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,98.173.14.75,0,none
+txn_0823,2026-01-02 12:58:56,card_0002,user_0002,merchant_0104,restaurant,89.9,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,193.140.29.232,0,none
+txn_0783,2026-01-03 01:08:35,card_0002,user_0002,merchant_0127,restaurant,109.52,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,73.120.84.177,0,none
+txn_0799,2026-01-01 07:11:04,card_0002,user_0002,merchant_0148,restaurant,120.79,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,67.58.25.42,0,none
+txn_0518,2026-01-04 03:39:52,card_0007,user_0007,merchant_0142,electronics,34.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,34.215.11.244,0,none
+txn_0453,2026-01-01 18:19:49,card_0000,user_0000,merchant_0193,retail,178.52,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,236.179.160.33,0,none
+txn_0413,2026-01-01 06:09:16,card_0005,user_0005,merchant_0041,gas,71.47,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,191.168.88.92,0,none
+txn_0493,2026-01-02 23:19:00,card_0008,user_0008,merchant_0118,gas,50.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,82.159.58.144,0,none
+txn_0688,2026-01-03 04:20:52,card_0005,user_0005,merchant_0025,restaurant,99.42,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,36.186.15.131,0,none
+txn_0125,2026-01-02 09:41:09,card_0007,user_0007,merchant_0142,travel,98.92,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,61.82.175.91,0,none
+txn_0131,2026-01-04 11:44:26,card_0003,user_0003,merchant_0165,electronics,181.28,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,237.71.117.80,0,none
+txn_0379,2026-01-05 00:29:16,card_0000,user_0000,merchant_0123,electronics,166.69,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,105.175.66.89,0,none
+txn_0886,2026-01-05 20:15:48,card_0004,user_0004,merchant_0011,grocery,123.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,48.19.113.188,0,none
+txn_0831,2026-01-06 20:44:42,card_0003,user_0003,merchant_0002,electronics,167.77,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,71.210.153.155,0,none
+txn_0947,2026-01-04 13:49:54,card_0007,user_0007,merchant_0097,pharmacy,48.48,USD,card_present,purchase,Seattle,WA,US,47.6062,-122.3321,device_0007,141.161.236.207,1,geo
+txn_0557,2026-01-04 12:20:25,card_0008,user_0008,merchant_0147,electronics,66.27,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,185.58.71.204,0,none
+txn_0366,2026-01-04 04:59:46,card_0007,user_0007,merchant_0019,pharmacy,77.63,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,200.241.216.215,0,none
+txn_0903,2026-01-01 14:27:05,card_0007,user_0007,merchant_0112,travel,77.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,56.203.173.157,0,none
+txn_0410,2026-01-04 05:21:39,card_0004,user_0004,merchant_0085,pharmacy,191.67,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,65.199.74.214,0,none
+txn_0275,2026-01-06 15:40:46,card_0004,user_0004,merchant_0197,entertainment,118.71,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,187.240.169.15,0,none
+txn_0527,2026-01-03 21:41:00,card_0009,user_0009,merchant_0073,gas,118.85,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,52.59.184.19,0,none
+txn_0447,2026-01-05 17:11:42,card_0004,user_0004,merchant_0191,entertainment,137.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,27.234.15.190,0,none
+txn_0996,2026-01-06 13:05:47,card_0006,user_0006,merchant_0018,entertainment,96.2,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,122.1.177.36,1,velocity
+txn_0696,2026-01-04 19:04:20,card_0004,user_0004,merchant_0092,entertainment,167.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,13.134.26.33,0,none
+txn_0542,2026-01-03 14:06:32,card_0001,user_0001,merchant_0090,pharmacy,92.1,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,149.247.6.176,0,none
+txn_0822,2026-01-03 04:02:31,card_0002,user_0002,merchant_0038,restaurant,36.69,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,92.65.193.62,0,none
+txn_0431,2026-01-01 11:19:52,card_0008,user_0008,merchant_0087,electronics,53.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,15.47.249.207,0,none
+txn_0633,2026-01-01 03:19:31,card_0006,user_0006,merchant_0038,entertainment,39.16,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,104.66.145.180,0,none
+txn_0882,2026-01-06 09:27:02,card_0008,user_0008,merchant_0185,travel,82.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,80.121.193.53,0,none
+txn_0644,2026-01-03 18:40:13,card_0008,user_0008,merchant_0042,travel,60.43,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,39.201.159.110,0,none
+txn_0885,2026-01-03 11:45:32,card_0000,user_0000,merchant_0142,retail,222.23,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,41.246.200.126,0,none
+txn_0205,2026-01-05 14:07:22,card_0009,user_0009,merchant_0010,electronics,114.72,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,191.224.138.37,0,none
+txn_0668,2026-01-05 11:31:45,card_0006,user_0006,merchant_0117,electronics,90.61,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,4.131.35.82,0,none
+txn_0713,2026-01-01 19:02:48,card_0002,user_0002,merchant_0159,restaurant,80.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,193.192.164.5,0,none
+txn_0339,2026-01-04 09:02:00,card_0006,user_0006,merchant_0049,entertainment,118.66,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,164.27.127.195,0,none
+txn_0076,2026-01-02 23:47:41,card_0002,user_0002,merchant_0082,restaurant,164.83,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,239.239.250.14,0,none
+txn_0193,2026-01-03 10:41:07,card_0006,user_0006,merchant_0099,electronics,176.72,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,33.20.241.65,0,none
+txn_0950,2026-01-02 03:12:44,card_0009,user_0009,merchant_0152,gas,87.29,USD,card_present,purchase,Seattle,WA,US,47.6062,-122.3321,device_0009,154.178.233.134,1,geo
+txn_0336,2026-01-06 23:27:03,card_0000,user_0000,merchant_0108,gas,218.49,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,197.192.23.236,0,none
+txn_0692,2026-01-01 12:32:22,card_0009,user_0009,merchant_0167,electronics,42.12,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,224.81.42.190,0,none
+txn_0965,2026-01-06 07:13:49,card_0003,user_0003,merchant_0063,gas,52.33,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,104.94.154.218,1,merchant
+txn_0928,2026-01-06 06:36:07,card_0009,user_0009,merchant_0123,gas,506.81,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,38.232.26.204,1,amount
+txn_0977,2026-01-05 14:18:22,card_0005,user_0005,merchant_0142,travel,45.19,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,72.167.104.199,1,merchant
+txn_0147,2026-01-02 14:14:49,card_0000,user_0000,merchant_0009,gas,185.37,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,190.91.232.244,0,none
+txn_1054,2026-01-01 06:33:29,card_0002,user_0002,merchant_0010,restaurant,83.74,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,67.22.196.118,1,velocity
+txn_0976,2026-01-05 02:08:50,card_0008,user_0008,merchant_0081,retail,50.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,44.219.223.227,1,merchant
+txn_0751,2026-01-02 12:16:35,card_0009,user_0009,merchant_0092,gas,115.19,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,182.6.242.16,0,none
+txn_0922,2026-01-04 07:52:21,card_0002,user_0002,merchant_0156,restaurant,636.81,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,252.149.39.235,1,amount
+txn_0650,2026-01-06 08:33:58,card_0007,user_0007,merchant_0182,pharmacy,65.15,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,176.189.95.1,0,none
+txn_0397,2026-01-02 02:26:53,card_0002,user_0002,merchant_0168,electronics,57.58,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,142.249.114.166,0,none
+txn_0388,2026-01-05 19:09:57,card_0004,user_0004,merchant_0168,pharmacy,97.08,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,173.231.46.95,0,none
+txn_0522,2026-01-06 10:32:12,card_0002,user_0002,merchant_0135,electronics,104.35,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,101.13.159.191,0,none
+txn_0234,2026-01-05 14:18:07,card_0009,user_0009,merchant_0051,gas,61.17,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,157.133.64.25,0,none
+txn_1039,2026-01-04 03:01:07,card_0009,user_0009,merchant_0170,electronics,37.77,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,235.113.142.96,1,velocity
+txn_0780,2026-01-04 06:44:47,card_0007,user_0007,merchant_0164,pharmacy,110.13,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,246.131.88.65,0,none
+txn_0731,2026-01-02 15:44:58,card_0002,user_0002,merchant_0200,electronics,139.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,166.88.95.171,0,none
+txn_0934,2026-01-04 08:00:14,card_0000,user_0000,merchant_0020,gas,1569.87,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,156.153.241.69,1,amount
+txn_0893,2026-01-02 15:24:08,card_0002,user_0002,merchant_0188,restaurant,99.45,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,61.228.206.216,0,none
+txn_0286,2026-01-06 23:34:09,card_0000,user_0000,merchant_0072,retail,162.56,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,131.242.96.13,0,none
+txn_0157,2026-01-03 15:26:05,card_0004,user_0004,merchant_0175,grocery,97.32,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,1.167.126.205,0,none
+txn_0370,2026-01-03 13:41:21,card_0002,user_0002,merchant_0151,restaurant,129.95,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,157.109.171.81,0,none
+txn_0468,2026-01-06 10:11:21,card_0006,user_0006,merchant_0165,electronics,79.68,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,100.229.236.179,0,none
+txn_0247,2026-01-02 03:00:22,card_0000,user_0000,merchant_0035,retail,156.74,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,245.39.78.161,0,none
+txn_0183,2026-01-06 15:41:04,card_0005,user_0005,merchant_0183,gas,89.71,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,86.35.134.37,0,none
+txn_0351,2026-01-04 16:58:56,card_0009,user_0009,merchant_0150,gas,82.27,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,134.204.118.106,0,none
+txn_0499,2026-01-03 16:28:18,card_0005,user_0005,merchant_0019,gas,47.11,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,118.228.52.217,0,none
+txn_0685,2026-01-03 06:30:11,card_0009,user_0009,merchant_0072,gas,50.08,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,200.126.24.5,0,none
+txn_1053,2026-01-02 03:43:13,card_0005,user_0005,merchant_0125,gas,109.75,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,99.172.122.238,1,velocity
+txn_0191,2026-01-01 19:52:22,card_0000,user_0000,merchant_0006,electronics,190.91,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,202.234.86.210,0,none
+txn_0156,2026-01-03 10:13:45,card_0000,user_0000,merchant_0094,gas,176.83,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,132.240.28.194,0,none
+txn_1003,2026-01-06 23:00:41,card_0003,user_0003,merchant_0147,pharmacy,146.71,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,186.45.228.156,1,velocity
+txn_0697,2026-01-03 02:34:03,card_0007,user_0007,merchant_0145,travel,154.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,72.70.201.81,0,none
+txn_0556,2026-01-03 03:49:10,card_0004,user_0004,merchant_0188,grocery,156.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,184.202.159.238,0,none
+txn_0866,2026-01-04 13:28:40,card_0007,user_0007,merchant_0019,travel,108.98,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,185.76.219.72,0,none
+txn_0582,2026-01-04 03:28:01,card_0003,user_0003,merchant_0052,entertainment,182.94,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,108.241.87.68,0,none
+txn_0503,2026-01-05 09:56:45,card_0007,user_0007,merchant_0185,electronics,39.07,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,40.62.79.211,0,none
+txn_0802,2026-01-02 13:12:44,card_0004,user_0004,merchant_0196,grocery,252.56,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,251.224.57.27,0,none
+txn_0852,2026-01-05 04:09:17,card_0007,user_0007,merchant_0173,pharmacy,84.89,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,245.173.235.186,0,none
+txn_0044,2026-01-03 07:50:02,card_0004,user_0004,merchant_0196,retail,133.96,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,33.210.58.127,0,none
+txn_1037,2026-01-04 02:59:47,card_0009,user_0009,merchant_0127,electronics,102.19,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,205.131.44.207,1,velocity
+txn_1030,2026-01-03 19:05:14,card_0004,user_0004,merchant_0003,retail,172.9,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,57.80.84.106,1,velocity
+txn_0952,2026-01-01 12:19:18,card_0004,user_0004,merchant_0094,pharmacy,165.59,USD,card_present,purchase,Seattle,WA,US,47.6062,-122.3321,device_0004,15.47.228.25,1,geo
+txn_0653,2026-01-01 17:37:04,card_0007,user_0007,merchant_0194,travel,54.34,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,127.96.20.224,0,none
+txn_0180,2026-01-06 11:46:02,card_0004,user_0004,merchant_0118,retail,139.53,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,131.138.32.25,0,none
+txn_0498,2026-01-06 09:08:08,card_0006,user_0006,merchant_0165,electronics,91.0,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,145.112.54.253,0,none
+txn_0830,2026-01-06 15:28:26,card_0004,user_0004,merchant_0183,retail,131.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,105.218.232.19,0,none
+txn_1005,2026-01-02 16:13:19,card_0005,user_0005,merchant_0062,entertainment,107.56,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,161.40.135.48,1,velocity
+txn_0880,2026-01-04 20:51:32,card_0001,user_0001,merchant_0127,travel,4.97,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,248.20.86.60,0,none
+txn_0937,2026-01-01 04:54:56,card_0003,user_0003,merchant_0132,pharmacy,1057.25,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,18.120.56.195,1,amount
+txn_0386,2026-01-01 21:07:23,card_0009,user_0009,merchant_0107,electronics,15.84,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,66.186.140.248,0,none
+txn_0484,2026-01-04 17:31:08,card_0004,user_0004,merchant_0024,retail,120.36,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,196.220.44.249,0,none
+txn_0174,2026-01-04 21:14:39,card_0004,user_0004,merchant_0066,retail,103.23,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,207.232.139.109,0,none
+txn_0720,2026-01-05 11:05:26,card_0000,user_0000,merchant_0109,retail,315.58,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,115.50.183.229,0,none
+txn_0300,2026-01-03 05:22:52,card_0006,user_0006,merchant_0056,retail,81.85,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,92.24.141.169,0,none
+txn_0369,2026-01-06 21:36:39,card_0000,user_0000,merchant_0047,retail,166.49,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,112.233.222.179,0,none
+txn_0891,2026-01-02 20:54:01,card_0009,user_0009,merchant_0004,gas,72.3,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,233.69.73.68,0,none
+txn_0066,2026-01-05 23:33:28,card_0009,user_0009,merchant_0013,electronics,108.91,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,236.141.190.242,0,none
+txn_0877,2026-01-02 21:25:17,card_0001,user_0001,merchant_0012,pharmacy,68.01,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,216.199.176.148,0,none
+txn_0199,2026-01-05 21:39:48,card_0003,user_0003,merchant_0120,pharmacy,119.2,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,231.217.144.215,0,none
+txn_0364,2026-01-01 18:00:55,card_0004,user_0004,merchant_0097,grocery,239.83,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,19.186.12.33,0,none
+txn_0775,2026-01-02 19:40:18,card_0006,user_0006,merchant_0160,retail,100.64,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,151.45.163.184,0,none
+txn_0438,2026-01-05 10:29:22,card_0007,user_0007,merchant_0154,travel,78.31,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,58.190.55.211,0,none
+txn_0031,2026-01-05 12:24:43,card_0005,user_0005,merchant_0169,gas,128.26,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,37.232.229.50,0,none
+txn_0342,2026-01-02 23:34:24,card_0009,user_0009,merchant_0148,gas,107.95,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,228.20.197.179,0,none
+txn_0815,2026-01-02 22:08:57,card_0008,user_0008,merchant_0085,electronics,47.66,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,132.210.88.128,0,none
+txn_0154,2026-01-04 01:48:51,card_0006,user_0006,merchant_0090,entertainment,17.79,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,152.208.73.204,0,none
+txn_0164,2026-01-04 18:42:25,card_0003,user_0003,merchant_0115,pharmacy,116.47,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,180.154.34.126,0,none
+txn_0835,2026-01-02 23:17:00,card_0006,user_0006,merchant_0072,electronics,43.71,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,162.77.228.174,0,none
+txn_0807,2026-01-04 03:02:00,card_0003,user_0003,merchant_0096,entertainment,93.5,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,168.147.116.97,0,none
+txn_0426,2026-01-04 21:11:34,card_0006,user_0006,merchant_0161,electronics,140.16,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,132.34.65.204,0,none
+txn_0289,2026-01-03 03:03:45,card_0009,user_0009,merchant_0081,gas,123.74,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,193.75.233.145,0,none
+txn_0984,2026-01-02 11:48:07,card_0002,user_0002,merchant_0074,restaurant,143.6,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,164.242.100.69,1,velocity
+txn_0387,2026-01-04 11:11:28,card_0007,user_0007,merchant_0120,pharmacy,71.16,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,187.185.227.161,0,none
+txn_0212,2026-01-04 12:54:43,card_0003,user_0003,merchant_0034,travel,175.38,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,213.125.117.23,0,none
+txn_1011,2026-01-03 07:41:41,card_0001,user_0001,merchant_0137,retail,48.01,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,63.117.26.76,1,velocity
+txn_0081,2026-01-06 20:40:01,card_0004,user_0004,merchant_0046,pharmacy,66.91,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,244.60.195.160,0,none
+txn_0935,2026-01-03 09:25:52,card_0004,user_0004,merchant_0124,grocery,1556.7,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,29.84.44.181,1,amount
+txn_0073,2026-01-03 04:37:09,card_0009,user_0009,merchant_0112,electronics,112.71,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,246.165.244.143,0,none
+txn_0201,2026-01-02 12:19:20,card_0006,user_0006,merchant_0173,entertainment,98.58,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,89.241.162.227,0,none
+txn_0863,2026-01-05 02:09:15,card_0000,user_0000,merchant_0146,electronics,77.13,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,249.245.2.190,0,none
+txn_0975,2026-01-03 06:36:09,card_0004,user_0004,merchant_0016,restaurant,211.16,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,140.119.184.6,1,merchant
+txn_0001,2026-01-06 12:55:10,card_0000,user_0000,merchant_0175,retail,172.64,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,180.94.248.156,0,none
+txn_0673,2026-01-04 01:48:47,card_0003,user_0003,merchant_0003,electronics,185.62,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,92.46.226.192,0,none
+txn_0470,2026-01-05 09:38:09,card_0000,user_0000,merchant_0096,gas,135.08,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,155.165.189.71,0,none
+txn_0941,2026-01-01 10:06:51,card_0009,user_0009,merchant_0176,electronics,184.78,USD,card_present,purchase,Dallas,TX,US,32.7767,-96.797,device_0009,203.182.107.90,1,geo
+txn_0313,2026-01-01 21:49:30,card_0003,user_0003,merchant_0054,electronics,157.3,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,44.163.39.248,0,none
+txn_1016,2026-01-06 06:14:21,card_0000,user_0000,merchant_0087,electronics,112.59,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,175.198.172.5,1,velocity
+txn_0896,2026-01-02 21:02:34,card_0004,user_0004,merchant_0187,pharmacy,84.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,140.47.10.183,0,none
+txn_0690,2026-01-01 14:34:34,card_0008,user_0008,merchant_0159,electronics,62.93,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,247.232.142.79,0,none
+txn_0204,2026-01-05 14:49:26,card_0009,user_0009,merchant_0193,electronics,91.06,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,85.243.155.82,0,none
+txn_0632,2026-01-01 17:08:32,card_0002,user_0002,merchant_0023,restaurant,55.18,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,232.12.250.158,0,none
+txn_0858,2026-01-03 08:00:23,card_0009,user_0009,merchant_0077,gas,68.17,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,73.242.115.220,0,none
+txn_0749,2026-01-01 05:42:29,card_0008,user_0008,merchant_0042,electronics,49.24,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,171.41.139.128,0,none
+txn_0514,2026-01-06 21:46:14,card_0006,user_0006,merchant_0149,electronics,87.27,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,165.153.7.35,0,none
+txn_0362,2026-01-02 17:22:14,card_0009,user_0009,merchant_0157,electronics,85.64,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,40.181.42.176,0,none
+txn_0069,2026-01-06 11:00:38,card_0000,user_0000,merchant_0179,retail,199.94,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,111.1.236.45,0,none
+txn_0134,2026-01-01 10:48:59,card_0002,user_0002,merchant_0164,restaurant,136.8,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,45.30.24.143,0,none
+txn_0178,2026-01-01 23:35:05,card_0000,user_0000,merchant_0096,gas,51.34,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,197.190.193.249,0,none
+txn_0097,2026-01-04 15:06:18,card_0009,user_0009,merchant_0128,gas,204.78,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,180.59.134.245,0,none
+txn_0491,2026-01-03 01:37:09,card_0004,user_0004,merchant_0171,entertainment,150.47,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,165.8.233.244,0,none
+txn_0023,2026-01-02 09:10:51,card_0000,user_0000,merchant_0080,electronics,123.83,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,24.127.85.183,0,none
+txn_0611,2026-01-04 08:09:22,card_0001,user_0001,merchant_0094,retail,89.68,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,87.180.149.34,0,none
+txn_0009,2026-01-06 19:19:26,card_0003,user_0003,merchant_0029,pharmacy,153.17,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,173.124.121.208,0,none
+txn_0508,2026-01-02 18:17:22,card_0003,user_0003,merchant_0156,pharmacy,101.36,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,95.172.220.107,0,none
+txn_0043,2026-01-01 18:04:48,card_0001,user_0001,merchant_0005,pharmacy,62.62,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,216.247.88.192,0,none
+txn_0894,2026-01-02 12:58:41,card_0001,user_0001,merchant_0169,pharmacy,42.29,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,82.44.39.189,0,none
+txn_0378,2026-01-03 17:47:01,card_0006,user_0006,merchant_0132,entertainment,53.57,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,141.248.5.161,0,none
+txn_0529,2026-01-02 07:30:53,card_0008,user_0008,merchant_0134,gas,66.62,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,152.211.169.249,0,none
+txn_0486,2026-01-02 04:41:28,card_0006,user_0006,merchant_0072,entertainment,121.54,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,123.172.44.68,0,none
+txn_0068,2026-01-04 17:02:39,card_0009,user_0009,merchant_0137,electronics,30.57,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,151.95.9.242,0,none
+txn_1050,2026-01-02 03:43:30,card_0005,user_0005,merchant_0104,entertainment,63.99,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,207.205.137.2,1,velocity
+txn_0669,2026-01-01 11:37:03,card_0008,user_0008,merchant_0148,travel,45.61,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,212.42.150.113,0,none
+txn_0547,2026-01-03 01:49:31,card_0001,user_0001,merchant_0192,pharmacy,31.62,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,45.17.148.38,0,none
+txn_0298,2026-01-06 09:23:02,card_0009,user_0009,merchant_0043,gas,92.5,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,113.111.21.130,0,none
+txn_0389,2026-01-03 11:16:01,card_0000,user_0000,merchant_0196,retail,1.0,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,227.52.92.75,0,none
+txn_0376,2026-01-01 20:51:21,card_0004,user_0004,merchant_0106,retail,190.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,159.41.36.100,0,none
+txn_0801,2026-01-03 23:15:19,card_0003,user_0003,merchant_0050,entertainment,163.08,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,88.88.101.245,0,none
+txn_0945,2026-01-03 14:30:35,card_0007,user_0007,merchant_0050,pharmacy,99.08,USD,card_present,purchase,Miami,FL,US,25.7617,-80.1918,device_0007,51.12.213.158,1,geo
+txn_0224,2026-01-06 16:48:27,card_0005,user_0005,merchant_0198,gas,94.35,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,244.149.169.132,0,none
+txn_0553,2026-01-03 12:45:34,card_0002,user_0002,merchant_0031,electronics,58.51,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,210.2.233.143,0,none
+txn_0646,2026-01-01 15:29:42,card_0005,user_0005,merchant_0118,entertainment,70.45,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,29.189.219.198,0,none
+txn_0726,2026-01-06 12:51:53,card_0000,user_0000,merchant_0038,gas,86.26,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,53.248.12.93,0,none
+txn_0847,2026-01-04 15:21:24,card_0006,user_0006,merchant_0022,retail,76.47,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,184.219.5.5,0,none
+txn_0564,2026-01-01 03:11:33,card_0004,user_0004,merchant_0105,retail,148.27,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,237.38.79.190,0,none
+txn_0329,2026-01-04 15:40:10,card_0004,user_0004,merchant_0128,entertainment,194.17,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,156.204.24.105,0,none
+txn_0423,2026-01-05 18:38:32,card_0008,user_0008,merchant_0160,electronics,72.3,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,197.203.75.88,0,none
+txn_0693,2026-01-06 03:45:45,card_0001,user_0001,merchant_0113,travel,60.83,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,70.64.58.73,0,none
+txn_0571,2026-01-02 12:10:30,card_0002,user_0002,merchant_0194,electronics,176.97,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,49.207.237.11,0,none
+txn_0310,2026-01-03 10:18:44,card_0006,user_0006,merchant_0144,entertainment,84.66,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,1.116.50.135,0,none
+txn_0567,2026-01-06 12:35:16,card_0004,user_0004,merchant_0166,retail,90.7,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,82.87.79.190,0,none
+txn_0942,2026-01-04 12:30:10,card_0000,user_0000,merchant_0163,electronics,195.13,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0000,46.203.244.226,1,geo
+txn_0597,2026-01-06 23:47:57,card_0001,user_0001,merchant_0080,pharmacy,62.85,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,144.91.92.242,0,none
+txn_0933,2026-01-02 10:03:35,card_0001,user_0001,merchant_0173,retail,429.6,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,245.70.170.192,1,amount
+txn_0592,2026-01-02 05:54:36,card_0007,user_0007,merchant_0144,restaurant,60.85,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,182.124.183.143,0,none
+txn_0327,2026-01-06 02:56:45,card_0004,user_0004,merchant_0106,entertainment,178.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,18.66.231.217,0,none
+txn_0270,2026-01-02 22:06:49,card_0006,user_0006,merchant_0002,entertainment,121.61,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,208.169.228.238,0,none
+txn_0909,2026-01-06 04:19:43,card_0002,user_0002,merchant_0077,restaurant,113.76,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,158.229.11.178,0,none
+txn_0796,2026-01-01 17:51:34,card_0001,user_0001,merchant_0005,pharmacy,52.43,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,241.104.12.227,0,none
+txn_0072,2026-01-05 12:15:26,card_0000,user_0000,merchant_0005,retail,34.67,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,13.1.176.90,0,none
+txn_0226,2026-01-02 09:53:07,card_0004,user_0004,merchant_0152,pharmacy,190.64,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,144.118.90.248,0,none
+txn_0405,2026-01-01 17:10:33,card_0005,user_0005,merchant_0102,entertainment,63.53,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,255.82.134.126,0,none
+txn_0741,2026-01-03 17:50:17,card_0009,user_0009,merchant_0079,electronics,71.44,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,166.161.115.138,0,none
+txn_0845,2026-01-06 18:17:49,card_0005,user_0005,merchant_0194,entertainment,75.83,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,130.109.232.183,0,none
+txn_0372,2026-01-06 16:33:33,card_0000,user_0000,merchant_0172,electronics,231.85,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,71.233.120.202,0,none
+txn_0467,2026-01-02 14:45:22,card_0003,user_0003,merchant_0083,entertainment,125.9,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,141.237.160.58,0,none
+txn_0012,2026-01-05 06:47:25,card_0004,user_0004,merchant_0139,entertainment,106.26,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,19.153.24.164,0,none
+txn_0455,2026-01-05 10:14:47,card_0007,user_0007,merchant_0084,restaurant,92.84,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,125.201.68.196,0,none
+txn_0642,2026-01-01 08:50:49,card_0001,user_0001,merchant_0089,retail,40.43,USD,online,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0001,239.38.36.184,0,none
+txn_0307,2026-01-06 00:06:54,card_0006,user_0006,merchant_0028,entertainment,138.98,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,77.13.117.206,0,none
+txn_0173,2026-01-02 00:16:03,card_0005,user_0005,merchant_0133,entertainment,81.62,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,238.34.161.175,0,none
+txn_0196,2026-01-01 08:04:22,card_0000,user_0000,merchant_0112,retail,322.18,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,190.158.151.244,0,none
+txn_0361,2026-01-04 17:25:13,card_0006,user_0006,merchant_0110,retail,125.28,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,96.223.144.185,0,none
+txn_0795,2026-01-02 00:53:39,card_0005,user_0005,merchant_0021,restaurant,93.66,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,90.135.13.44,0,none
+txn_0908,2026-01-04 22:30:03,card_0007,user_0007,merchant_0175,pharmacy,95.09,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,87.161.12.49,0,none
+txn_0218,2026-01-03 04:56:06,card_0008,user_0008,merchant_0083,electronics,94.02,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,48.177.114.173,0,none
+txn_0452,2026-01-03 19:14:10,card_0002,user_0002,merchant_0010,electronics,124.8,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,142.52.113.122,0,none
+txn_0110,2026-01-05 10:01:37,card_0004,user_0004,merchant_0020,pharmacy,123.85,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,202.208.96.181,0,none
+txn_0127,2026-01-05 07:44:20,card_0009,user_0009,merchant_0003,electronics,50.31,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0009,102.22.28.113,0,none
+txn_0636,2026-01-06 12:12:02,card_0008,user_0008,merchant_0108,gas,51.29,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,156.61.141.161,0,none
+txn_0860,2026-01-05 18:02:34,card_0006,user_0006,merchant_0064,electronics,108.94,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,81.57.24.155,0,none
+txn_0648,2026-01-06 03:01:55,card_0006,user_0006,merchant_0094,entertainment,45.41,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,54.22.145.144,0,none
+txn_0914,2026-01-04 06:24:01,card_0004,user_0004,merchant_0152,pharmacy,230.06,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,131.162.240.214,0,none
+txn_0738,2026-01-05 04:06:43,card_0003,user_0003,merchant_0010,electronics,147.39,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0003,177.160.226.178,0,none
+txn_0776,2026-01-03 19:25:27,card_0004,user_0004,merchant_0151,retail,217.65,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,119.114.202.83,0,none
+txn_0905,2026-01-06 10:17:56,card_0002,user_0002,merchant_0132,electronics,102.73,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0002,207.169.211.113,0,none
+txn_0146,2026-01-04 13:38:57,card_0004,user_0004,merchant_0151,grocery,109.5,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,225.70.143.199,0,none
+txn_0596,2026-01-03 16:56:35,card_0004,user_0004,merchant_0123,retail,247.71,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,10.95.111.136,0,none
+txn_0544,2026-01-05 02:59:40,card_0005,user_0005,merchant_0035,entertainment,84.37,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,115.154.193.135,0,none
+txn_0162,2026-01-02 10:28:44,card_0006,user_0006,merchant_0098,retail,143.87,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,51.78.123.55,0,none
+txn_0311,2026-01-04 19:48:03,card_0006,user_0006,merchant_0104,electronics,73.86,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,82.108.121.110,0,none
+txn_0374,2026-01-06 12:13:28,card_0004,user_0004,merchant_0071,pharmacy,226.38,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0004,102.215.182.125,0,none
+txn_0010,2026-01-02 13:27:14,card_0006,user_0006,merchant_0018,entertainment,140.38,USD,card_present,purchase,Phoenix,AZ,US,33.4484,-112.074,device_0006,162.190.234.4,0,none
+txn_0868,2026-01-06 11:01:17,card_0007,user_0007,merchant_0101,pharmacy,89.71,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0007,179.105.134.251,0,none
+txn_0287,2026-01-02 03:30:34,card_0008,user_0008,merchant_0198,travel,52.52,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,221.186.184.29,0,none
+txn_0025,2026-01-04 17:50:09,card_0008,user_0008,merchant_0103,gas,63.1,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,140.214.99.194,0,none
+txn_0209,2026-01-04 13:00:42,card_0008,user_0008,merchant_0190,gas,46.5,USD,card_present,purchase,San Diego,CA,US,32.7157,-117.1611,device_0008,252.19.43.44,0,none
+txn_0436,2026-01-02 10:38:19,card_0005,user_0005,merchant_0165,restaurant,53.41,USD,online,purchase,San Diego,CA,US,32.7157,-117.1611,device_0005,182.21.240.35,0,none
+txn_0282,2026-01-02 17:14:46,card_0000,user_0000,merchant_0189,electronics,1.0,USD,online,purchase,Los Angeles,CA,US,34.0522,-118.2437,device_0000,167.63.47.217,0,none
